@@ -1,0 +1,646 @@
+{
+  "header": {
+    "connect": "Связаться",
+    "projects": "Проекты",
+    "services": "Услуги",
+    "team": "Команда",
+    "blog": "Блог"
+  },
+
+  "hero": {
+    "button": "Связаться с нами",
+    "enableSound": "Включить звук",
+    "videoMuteHint": "Выключить звук видео",
+    "videoUnmuteHint": "Включить звук видео",
+    "span": "299 €/месяц",
+    "text": "Мы полностью берем эту задачу на себя",
+    "title": "Комплексное продвижение вашего бизнеса от",
+    "videoAria": "Рекламная анимация со звуком"
+  },
+  "workers": {
+    "nextSlide": "Следующий слайд",
+    "prevSlide": "Предыдущий слайд",
+    "openProfile": "Открыть профиль",
+    "showMore": "Показать ещё",
+    "title": "Специалисты",
+    "items": {
+      "anastasia": {
+        "name": "Анастасия Яковлева",
+        "role": "Дизайнер",
+        "experience": "3 года опыта"
+      },
+      "alexey": {
+        "name": "Алексей Петров",
+        "role": "Таргетолог",
+        "experience": "5 лет опыта"
+      },
+      "maria": {
+        "name": "Мария Соколова",
+        "role": "SMM-специалист",
+        "experience": "4 года опыта"
+      },
+      "arina": {
+        "name": "Арина Кузнецова",
+        "role": "SEO-специалист",
+        "experience": "7 лет опыта"
+      },
+      "vyacheslav": {
+        "name": "Вячеслав Макушев",
+        "role": "Таргетолог",
+        "experience": "4 года опыта"
+      },
+      "ivan": {
+        "name": "Иван Тихонов",
+        "role": "Менеджер",
+        "experience": "6 лет опыта"
+      },
+      "elizaveta": {
+        "name": "Елизавета Орлова",
+        "role": "Контент-менеджер",
+        "experience": "5 лет опыта"
+      }
+    }
+  },
+  "servicesSection": {
+    "title": "Услуги",
+    "sections": {
+      "popular": {
+        "title": "Самые частые заказы",
+        "items": {
+          "targetedMetaVkTiktok": "Таргетированная реклама Meta, VK, TikTok",
+          "contextGoogleYandex": "Контекстная реклама Google Ads / Я.Директ",
+          "seoPromotion": "SEO-продвижение сайта",
+          "corporateWebsite": "Создание сайта корпоративного",
+          "smmManagement": "SMM - ведение социальных сетей",
+          "adCreatives": "Разработка рекламных креативов",
+          "copywriting": "Копирайтинг (тексты для сайта, рекламы)",
+          "analyticsSetup": "Настройка аналитики (Google Analytics, Я.Метрика)",
+          "emailMarketing": "Email-маркетинг (настройка рассылок)"
+        }
+      },
+      "middle": {
+        "title": "Средняя частота заказа",
+        "items": {
+          "websiteRedesign": "Редизайн сайта",
+          "uxUiDesign": "UX/UI-дизайн",
+          "abTesting": "A/B-тестирование рекламы и посадочных страниц",
+          "marketplacePromotion": "Продвижение на маркетплейсах",
+          "onlineStoreCreation": "Создание интернет-магазина",
+          "influencerAds": "Influencer-реклама (подбор блогеров)",
+          "videoProduction": "Видеореклама / видеопродакшн",
+          "crmAutomation": "Настройка CRM и автоматизации",
+          "localSeo": "Локальное SEO (карты, Google Business Profile)"
+        }
+      },
+      "rare": {
+        "title": "Реже, но регулярно заказывают",
+        "items": {
+          "logoDesign": "Разработка логотипа",
+          "brandIdentity": "Разработка фирменного стиля",
+          "prPublications": "PR-размещение в СМИ",
+          "brandbook": "Брендбук",
+          "marketingResearch": "Маркетинговые исследования",
+          "businessPhotography": "Фотосъемка для бизнеса",
+          "presentationDesign": "Разработка презентаций",
+          "chatbots": "Чат-боты для сайта / мессенджеров",
+          "quizLandingPages": "Разработка квиз-лендингов"
+        }
+      }
+    }
+  },
+  "cardSection": {
+    "left": {
+      "titleTop": "Не знаете",
+      "titleBottom": "с чего начать?",
+      "description": "Если вы еще не знаете, кого вам хотелось бы нанять в команду - оставьте заявку на общение с маркетологом.",
+      "free": "Это бесплатно.",
+      "illustrationAlt": "Иллюстрация услуг",
+      "tags": {
+        "designBranding": "Дизайн и брендинг",
+        "websiteCreation": "Создание сайтов",
+        "smm": "SMM",
+        "copywriting": "Копирайтинг",
+        "emailMarketing": "Email-маркетинг",
+        "seoPromotion": "SEO-продвижение сайта",
+        "targetedAds": "Таргетированная реклама",
+        "googleYandexAds": "Google Ads / Я. Директ",
+        "andMore": "И так далее..."
+      }
+    },
+    "form": {
+      "title": "Свяжитесь с нами",
+      "nameLabel": "Ваше имя:",
+      "emailLabel": "Электронная почта:",
+      "contactMethodLabel": "Способ связи",
+      "telegramOption": "Телега",
+      "whatsappOption": "Вацап",
+      "contactValueLabelTelegram": "Ваш Telegram:",
+      "contactValueLabelWhatsapp": "Ваш номер WhatsApp:",
+      "contactPlaceholderTelegram": "@username",
+      "contactPlaceholderWhatsapp": "Номер телефона",
+      "submit": "Получить консультацию",
+      "submitting": "Отправка..."
+    },
+    "social": {
+      "telegram": "Telegram",
+      "viber": "Viber"
+    },
+    "errors": {
+      "requiredFields": "Заполните имя, email и способ связи.",
+      "submitFailed": "Не удалось отправить заявку.",
+      "unknown": "Ошибка отправки формы."
+    },
+    "success": {
+      "submitted": "Заявка отправлена."
+    }
+  },
+  "commentSection": {
+    "prevReview": "Предыдущий отзыв",
+    "nextReview": "Следующий отзыв",
+    "items": {
+      "first": {
+        "badge": "Проверенный отзыв",
+        "name": "Ерлан Т.",
+        "subtitle": "Основатель бренда",
+        "title": "Команда усилила наши продажи",
+        "body": "Мы пришли без понятной стратегии и за два месяца получили стабильный поток заявок. Команда быстро включилась, объяснила каждый шаг и взяла на себя весь маркетинг под ключ.",
+        "rating": "5.0"
+      },
+      "second": {
+        "badge": "Проверенный отзыв",
+        "name": "Мария К.",
+        "subtitle": "Руководитель проекта",
+        "title": "Чётко, прозрачно и по делу",
+        "body": "Понравилась системность: от аналитики до рекламных креативов. Мы видим метрики, понимаем куда идёт бюджет и получаем результат без лишней рутины внутри команды.",
+        "rating": "5.0"
+      }
+    }
+  },
+  "smm": {
+    "breadcrumbServices": "Услуги",
+    "breadcrumbCurrent": "SMM",
+    "titleHighlight": "SMM-продвижение",
+    "titleRest": "которое работает на ваши продажи",
+    "description": "Строим живые сообщества вокруг бренда, генерируем органический трафик и конвертируем подписчиков в покупателей - системно, без накруток.",
+    "contactButton": "Связаться с нами",
+    "calculatorAlt": "Калькулятор",
+    "socialInstagram": "Instagram",
+    "socialTelegram": "Telegram",
+    "socialViber": "Viber"
+  },
+  "design": {
+    "imageAlt": "Анастасия Яковлева — портрет",
+    "breadcrumbTeam": "Команда",
+    "breadcrumbName": "Анастасия Яковлева",
+    "titleHighlight": "SMM-Дизайнер",
+    "titleSecondLine": "& Контент-мейкер",
+    "description": "Создаёт визуальный голос бренда — от стратегии до пикселя. Превращает идеи в контент, который запоминают и которым делятся.",
+    "contactButton": "Связаться с нами",
+    "calculatorAlt": "Калькулятор",
+    "socialInstagram": "Instagram",
+    "socialTelegram": "Telegram",
+    "socialViber": "Viber"
+  },
+  "work": {
+    "title": "Как мы работаем?",
+    "illustrationAlt": "Маркетолог",
+    "stepBadge": "шаг {step}",
+    "steps": {
+      "1": {
+        "title": "анализ",
+        "text": "глубокий анализ полученной информации аналитиком"
+      },
+      "2": {
+        "title": "позиция",
+        "text": "выделение сильных сторон компании и УТП среди конкурентов"
+      },
+      "3": {
+        "title": "стратегия",
+        "text": "создание плана продвижения компании"
+      },
+      "4": {
+        "title": "запуск",
+        "text": "запуск и тестирование рекламных активностей"
+      },
+      "5": {
+        "title": "рост",
+        "text": "масштабирование рекламных кампаний"
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Портфолио",
+    "allProjects": "Все проекты",
+    "priceLabel": "Цена",
+    "openProject": "Открыть проект",
+    "prevSlide": "Предыдущий слайд",
+    "nextSlide": "Следующий слайд",
+    "items": {
+      "silpo": {
+        "title": "Сильпо",
+        "category": "Розничная торговля",
+        "description": "Комплексное продвижение крупной сети супермаркетов в Instagram и Google",
+        "price": "300€ в месяц"
+      }
+    }
+  },
+  "features": {
+    "iconAlt": "Иконка",
+    "items": {
+      "1": {
+        "badge": "Аналитика",
+        "title": "Рост по метрикам",
+        "description": "Фиксировали ключевые KPI по неделям: вовлечённость, охват, стоимость лида и вклад рекламы в выручку. На основе данных перераспределяли бюджет, отключали слабые связки и усиливали то, что стабильно попадало в целевой коридор по CPL и ROAS."
+      },
+      "2": {
+        "badge": "Контент",
+        "title": "Стабильный охват",
+        "description": "Собрали контент-план: рубрики, сторис, reels и посты под этапы воронки. Поддерживали ритм публикаций и работу с директом, чтобы органика росла без резких провалов и усиливала доверие к бренду между рекламными волнами."
+      },
+      "3": {
+        "badge": "Реклама",
+        "title": "Оптимизация бюджета",
+        "description": "Запускали гипотезы с небольшого бюджета и масштабировали только те связки, где метрики держались предсказуемо. Ретаргетинг и lookalike подключали поэтапно — после настройки событий и проверки качества данных в аналитике."
+      },
+      "4": {
+        "badge": "Команда",
+        "title": "Прозрачная отчётность",
+        "description": "Каждую неделю — короткий отчёт с цифрами, выводами и планом на следующий спринт. Все договорённости фиксировали в задачах: клиент всегда понимал, что сделано, что в работе и зачем меняются приоритеты."
+      }
+    }
+  },
+  "info": {
+    "title": "Подробности проекта",
+    "items": {
+      "1": {
+        "title": "Задача",
+        "body": "Нужно было не просто «сделать красиво в соцсетях», а выстроить систему: привлечь внимание, удержать аудиторию и довести её до целевого действия — от подписчика до заявки или покупки. Важно было совместить органику и платные каналы так, чтобы они не конкурировали друг с другом, а усиливали общий результат и не размывали бренд разными смыслами."
+      },
+      "2": {
+        "title": "Подход",
+        "body": "Мы начали с аудита каналов и аналитики: события на сайте и в рекламных кабинетах, сквозная воронка, текущие креативы и посадочные. Затем собрали единую контент-машину и рекламные кампании с чёткими гипотезами. На каждом этапе тестировали офферы, форматы и визуал, чтобы понимать, что реально работает именно на вашей аудитории, а не «в среднем по рынку»."
+      },
+      "3": {
+        "title": "Результат",
+        "body": "За время работы выросли и охват, и качество трафика: заявки стали приходить стабильнее, а не только отдельными всплесками. Мы постепенно увеличивали долю бюджета на доказанно сильные связки и сокращали расходы на то, что не давало устойчивого эффекта. Это позволило масштабироваться без хаотичного роста расходов."
+      },
+      "4": {
+        "title": "Отчётность",
+        "body": "Клиент получал не только скриншоты и красивые слайды, но и понятную картину: что сделано, какие метрики изменились, что планируем дальше и какие риски видим по рынку и креативам. Регулярные короткие синхронизации помогали быстро менять приоритеты и не копить «немые» задачи, которые откладываются на потом."
+      }
+    }
+  },
+  "sales": {
+    "imageAlt": "Сильпо кейс",
+    "breadcrumbProjects": "Проекты",
+    "breadcrumbCurrent": "Сильпо",
+    "badge": "Розничная торговля",
+    "titleHighlight": "Рост продаж",
+    "titleMetric": "×3.4",
+    "titleSubtitle": "за 8 месяцев работы",
+    "description": "Как мы помогли региональному ресторану выйти на федеральный уровень — с нуля до 40 000 подписчиков и 2,3 млн охвата ежемесячно.",
+    "priceLabel": "Цена",
+    "priceValue": "300€ в месяц",
+    "socialInstagram": "Instagram",
+    "socialTelegram": "Telegram",
+    "socialViber": "Viber"
+  },
+  "faq": {
+    "title": "FAQ",
+    "items": {
+      "1": {
+        "question": "Как быстро вы запускаете продвижение после старта?",
+        "answer": "Обычно базовый запуск занимает 3-7 рабочих дней: собираем вводные, проверяем аналитику, формируем гипотезы и запускаем первые связки. Сложные проекты с большим количеством каналов могут занять до 10-14 дней."
+      },
+      "2": {
+        "question": "Какие рекламные каналы вы используете?",
+        "answer": "Мы подбираем каналы под задачу: Meta Ads, Google Ads, TikTok Ads, SEO, email-маркетинг и контент. В каждом проекте формируем микс инструментов, который дает лучший результат по стоимости лида и продажам."
+      },
+      "3": {
+        "question": "Как вы оцениваете эффективность рекламы?",
+        "answer": "Фиксируем KPI до старта: CPL, CPA, ROAS, CAC, конверсия в заявку и продажу. Далее строим отчеты по неделям и месяцам, чтобы видеть динамику и принимать решения на основе цифр, а не догадок."
+      },
+      "4": {
+        "question": "Вы работаете только с крупными компаниями?",
+        "answer": "Нет, мы работаем с бизнесом разного масштаба: от небольших локальных компаний до международных проектов. Стратегия и бюджет адаптируются под текущий этап роста бизнеса."
+      },
+      "5": {
+        "question": "Кто будет вести мой проект на практике?",
+        "answer": "За проект отвечает выделенный маркетолог и команда специалистов по направлениям: таргет, контекст, дизайн, аналитика, контент. Вы всегда знаете, кто отвечает за задачи и сроки выполнения."
+      },
+      "6": {
+        "question": "Можно ли начать с тестового периода?",
+        "answer": "Да, мы можем начать с тестового этапа, где проверяем гипотезы и определяем рабочие связки. По итогам теста формируем масштабируемый план и прозрачный прогноз по дальнейшему росту."
+      }
+    }
+  },
+  "footer": {
+    "quoteBold": "Мы готовы работать на тебя,",
+    "quoteRest": "чтобы ты получил лучший результат за справедливую цену",
+    "memberAlt": "Участник команды",
+    "contactButton": "Связаться с нами",
+    "brandTitle": "MARKETING LOGO",
+    "about": "Комплексное продвижение бизнеса. Работаем с компаниями по всему миру - от стартапов до крупных корпораций.",
+    "badges": {
+      "google": "Google Partner",
+      "meta": "Meta Partner",
+      "ssl": "SSL Secure"
+    },
+    "navTitle": "Навигация",
+    "navLinks": {
+      "team": "Команда",
+      "process": "Процесс",
+      "services": "Услуги",
+      "projects": "Проекты",
+      "sitemap": "Карта сайта",
+      "blog": "Блог"
+    },
+    "contactsTitle": "Контакты",
+    "contacts": {
+      "writeUs": "Написать нам",
+      "phone": "+9 999 99 99 99",
+      "instagram": "Inst: @Info",
+      "telegram": "Telegram: @Info",
+      "viber": "Viber: @Info"
+    },
+    "docsTitle": "Документы",
+    "docs": {
+      "privacy": "Политика Конфиденциальности",
+      "terms": "Условия использования",
+      "company": "Реквизиты компании"
+    },
+    "copyright": "© 2026 INFO. Все права защищены.",
+    "tagline": "Комплексное продвижение бизнеса"
+  },
+  "adminLogin": {
+    "title": "Вход в админку",
+    "subtitle": "Доступ к панели Marketing",
+    "email": "Email",
+    "password": "Пароль",
+    "submit": "Войти",
+    "themeLight": "Светлая тема",
+    "themeDark": "Тёмная тема",
+    "backToSite": "На сайт",
+    "error": "Укажите email и пароль.",
+    "hint": "Демо: подойдёт любой email и пароль."
+    
+  },
+  "blog": {
+    "title": "Наш блог",
+    "readMore": "Читать статью"
+  },
+  "thanks": {
+    "title": "Спасибо за ваше обращение!",
+    "description": "Наш менеджер свяжется с вами в ближайшее время.",
+    "button": "Вернуться на главную"
+  },
+  "teamDetails": {
+    "leo-carter": {
+      "name": "Leo Carter",
+      "role": "Product Manager",
+      "h1": "Leo Carter — Product Manager | SaaS и Digital Product Manager",
+      "metaTitle": "Product Manager Leo Carter — MVP, SaaS, UX, CRO",
+      "metaDescription": "Опытный Product Manager с 8+ лет опыта. Запуск MVP, развитие SaaS продуктов, UX и рост конверсии. Кейсы и реальные результаты.",
+      "photoAlt": "Leo Carter — Product Manager",
+      "intro": "Leo Carter — опытный Product Manager с фокусом на развитие цифровых продуктов и рост пользовательских метрик. Как Product Manager, он специализируется на управлении продуктом, запуске MVP и оптимизации пользовательского опыта (UX). Его подход к product management помогает компаниям увеличивать конверсию, масштабировать продукты и достигать устойчивого роста бизнеса.",
+      "experience": "Leo Carter — Product Manager с более чем 8-летним опытом работы в digital-продуктах, SaaS и e-commerce. За это время он прошёл путь от младшего аналитика до ведущего Product Manager. Свою карьеру Leo начал в роли продуктового аналитика. Уже тогда он активно участвовал в процессах <u>UX research, качественные и количественные исследования</u> и помогал формировать гипотезы для развития продукта. В роли Product Manager Leo отвечал за полный цикл разработки продукта — от этапа <u>Product discovery</u> и формирования стратегии до запуска. Он активно участвовал в <u>разработке маркетинговой стратегии</u>. Одним из ключевых навыков Leo является запуск продуктов с нуля. Он неоднократно руководил процессами <u>MVP development</u>. Leo уделяет особое внимание пользовательскому опыту и эффективности продукта. Он регулярно работает с такими направлениями, как <u>Conversion optimization, CRO</u> и <u>A/B тестирование</u>. Также Leo активно вовлечён в процессы <u>SEO-оптимизация сайтов</u> и развитие органического трафика. Сегодня Leo Carter — это Product Manager, который сочетает стратегическое мышление с практическим подходом к реализации.",
+      "skills": "Product management, Product discovery, Аналитика данных (CAC, LTV, retention), UX research, Agile / Scrum / Kanban, MVP development, SaaS product development, A/B тестирование, CRO, SEO-оптимизация"
+    },
+    "alex-morgan": {
+      "name": "Alex Morgan",
+      "role": "Digital Marketing Specialist",
+      "h1": "Alex Morgan — Digital Marketing Specialist | Performance Marketing and Growth",
+      "metaTitle": "Digital Marketing Specialist Alex Morgan — SEO, Ads, CRO | Company X",
+      "metaDescription": "Нанять маркетолога для роста бизнеса. SEO, реклама, лидогенерация, CRO, аналитика и масштабирование digital-проектов. Реальные кейсы и результаты.",
+      "photoAlt": "Digital marketing specialist Alex Morgan — performance marketing и SEO эксперт",
+      "intro": "Alex Morgan — опытный digital-маркетолог с фокусом на рост бизнеса, лидогенерацию и масштабирование онлайн-проектов. Как marketing specialist, он специализируется на разработке маркетинговой стратегии, performance marketing, SEO-продвижении и оптимизации конверсии (CRO).",
+      "experience": "Alex Morgan — digital marketing specialist с более чем 9-летним опытом в интернет-маркетинге, performance marketing, B2B и B2C проектах. Свою карьеру Alex начал с аналитики, где глубоко погрузился в <u>маркетинговый аудит и анализ текущей ситуации</u>. Уже на этом этапе он активно применял <u>анализ конкурентов и конкурентной среды</u>. Со временем Alex расширил свою экспертизу и разрабатывал комплексные <u>разработка маркетинговой стратегии</u>. В рамках проектов Alex активно работает с <u>сегментация целевой аудитории и создание портретов клиентов</u>, что позволяет выстраивать <u>разработка маркетинговых воронок</u>. Одним из ключевых направлений является performance marketing: управление <u>Google Ads</u>, ретаргетинг, <u>A/B тестирование</u> и <u>Conversion optimization, CRO</u>. Отдельное внимание Alex уделяет органическому росту через <u>SEO-оптимизация сайтов</u>, а также имеет опыт в <u>контент-маркетинг</u>. Для принятия решений на основе данных он настраивает <u>настройка веб-аналитики (Google Analytics 4)</u> и строит <u>дашборды и автоматическая отчетность</u>.",
+      "skills": "Digital marketing, Performance marketing, Growth-стратегии, Лидогенерация, Воронки продаж, SEO, Контекстная реклама, CRO, A/B тестирование, Контент-маркетинг, SMM, Email-маркетинг, Google Analytics 4"
+    },
+    "emma-collins": {
+      "name": "Emma Collins",
+      "role": "UX/UI Designer",
+      "h1": "Emma Collins — UX/UI Designer | Product Design и Digital Design",
+      "metaTitle": "UX/UI Designer Emma Collins — Product Design, UX, UI, CRO | Company X",
+      "metaDescription": "Нанять UX/UI дизайнера для создания интерфейсов и роста конверсии. UX research, UI design, прототипирование, CRO и product design. Реальные кейсы.",
+      "photoAlt": "UX/UI designer Emma Collins — product design и интерфейсы для web и mobile",
+      "intro": "Emma Collins — опытный UX/UI дизайнер с фокусом на создании удобных, конверсионных и визуально сильных digital-продуктов. Как UX/UI designer, она специализируется на проектировании пользовательского опыта, интерфейсов и оптимизации конверсии (CRO).",
+      "experience": "Emma Collins — UX/UI designer с более чем 8-летним опытом в product design, web-дизайне и разработке цифровых интерфейсов для SaaS, e-commerce и корпоративных продуктов. За это время она реализовала десятки проектов. Свою карьеру Emma начала с графического дизайна и постепенно перешла в продуктовый дизайн. Она глубоко погрузилась в процессы <u>UX research, качественные и количественные исследования</u>. Одним из ключевых этапов ее работы является <u>Product discovery</u>. Она активно участвует в <u>Product strategy и feature definition</u>. Emma разрабатывает user flows, структуру интерфейсов и прототипы, применяя такие направления, как <u>UX wireframes</u> и <u>Clickable prototypes</u>. Визуальная составляющая — еще одна сильная сторона Emma. Она занимается <u>UI design для web и mobile</u>, создает современные интерфейсы и <u>Design systems</u>. Отдельное внимание Emma уделяет эффективности интерфейсов. Она активно работает с <u>Usability optimization</u>, <u>Conversion optimization, CRO</u> и <u>A/B тестирование</u>. Кроме того, Emma учитывает принципы <u>Brand strategy and positioning</u>.",
+      "skills": "UX/UI дизайн, Product design, UX research, User flows, Прототипирование, UI design, Design systems, Usability optimization, CRO, A/B тестирование, Interaction design"
+    },
+    "daniel-reed": {
+      "name": "Daniel Reed",
+      "role": "Data Analyst",
+      "h1": "Daniel Reed — Data Analyst | Web Analytics и Marketing Analytics",
+      "metaTitle": "Data Analyst Daniel Reed — Web Analytics, CRO, BI | Company X",
+      "metaDescription": "Нанять аналитика данных для роста бизнеса. Web-аналитика, BI, A/B тестирование, CRO и дашборды. Data-driven решения и реальные результаты.",
+      "photoAlt": "Data analyst Daniel Reed — web analytics, BI и анализ данных",
+      "intro": "Daniel Reed — опытный аналитик данных с фокусом на web-аналитике, маркетинговой аналитике и росте бизнес-метрик. Как data analyst, он специализируется на анализе данных, настройке аналитических систем и оптимизации конверсии (CRO).",
+      "experience": "Daniel Reed — data analyst с более чем 8-летним опытом в аналитике данных, web-аналитике и маркетинговой аналитике. Он работал с проектами в сфере SaaS, e-commerce и digital-сервисов. Свою карьеру Daniel начал с анализа пользовательского поведения. Он глубоко погрузился в процессы <u>настройка веб-аналитики (Google Analytics 4)</u>. Одним из ключевых направлений его работы является <u>анализ конверсий и CRO</u>. Он активно использует <u>A/B тестирование</u>, чтобы проверять гипотезы. Daniel также занимается стратегической аналитикой. Он проводит <u>маркетинговый аудит и анализ текущей ситуации</u>. В рамках проектов он регулярно использует <u>анализ конкурентов и конкурентной среды</u>. Отдельное внимание Daniel уделяет сегментации данных. Он проводит <u>сегментация целевой аудитории и создание портретов клиентов</u>. Daniel активно работает с визуализацией данных. Он создает <u>дашборды и автоматическая отчетность</u>. Также он помогает выстраивать <u>разработка маркетинговых воронок</u> и оценивать их эффективность.",
+      "skills": "Data analytics, Web-аналитика, Google Analytics 4, BI-системы, Анализ конверсий, CRO, A/B тестирование, Маркетинговая аналитика, Сегментация аудитории, SQL, Power BI, Looker Studio"
+    },
+    "sophia-bennett": {
+      "name": "Sophia Bennett",
+      "role": "Copywriter",
+      "h1": "Sophia Bennett — Copywriter | Content Marketing и SEO Copywriting",
+      "metaTitle": "Copywriter Sophia Bennett — SEO тексты, контент, CRO | Company X",
+      "metaDescription": "Нанять копирайтера для сайта и бизнеса. SEO тексты, контент-маркетинг, email-рассылки и CRO. Тексты, которые привлекают и продают.",
+      "photoAlt": "Copywriter Sophia Bennett — SEO тексты, контент-маркетинг и продающие тексты",
+      "intro": "Sophia Bennett — опытный копирайтер с фокусом на создании текстов, которые привлекают трафик, вовлекают аудиторию и конвертируют в клиентов.",
+      "experience": "Sophia Bennett — copywriter с более чем 7-летним опытом в контент-маркетинге и SEO-копирайтинге. Она работает на стыке маркетинга и аналитики. Свою карьеру Sophia начала с <u>копирайтинг для сайтов, рассылок и рекламы</u>. Одним из ключевых направлений является <u>SEO-контент</u>. Она глубоко погружается в аудиторию через <u>сегментация целевой аудитории и создание портретов клиентов</u>. Sophia помогает выстраивать <u>разработка маркетинговых воронок</u>, создавая тексты для разных этапов. Она активно использует <u>A/B тестирование</u> и понимает, как текст влияет на <u>Conversion optimization, CRO</u>. Кроме того, Sophia занимается <u>создание и настройка email-рассылок</u> и участвует в <u>контент-маркетинг</u> стратегиях.",
+      "skills": "Копирайтинг, SEO-копирайтинг, Контент-маркетинг, Продающие тексты, Email-рассылки, Текстовые воронки, Семантика, UX writing, Storytelling, A/B тестирование текстов"
+    },
+    "ethan-brooks": {
+      "name": "Ethan Brooks",
+      "role": "Frontend Developer",
+      "h1": "Ethan Brooks — Frontend Developer | Web Development и UI Engineering",
+      "metaTitle": "Frontend Developer Ethan Brooks — React, UI, Web | Company X",
+      "metaDescription": "Нанять frontend разработчика для создания сайтов и web-приложений. Быстрые интерфейсы, UI, React, оптимизация скорости и SEO.",
+      "photoAlt": "Frontend developer Ethan Brooks — разработка интерфейсов и web-приложений",
+      "intro": "Ethan Brooks — опытный frontend-разработчик с фокусом на создании быстрых, адаптивных и удобных интерфейсов для сайтов и web-приложений.",
+      "experience": "Ethan Brooks — frontend developer с более чем 8-летним опытом в web-разработке. Он активно участвовал в проектах по <u>Frontend development</u>, создавая адаптивные интерфейсы. Ethan тесно взаимодействует с дизайнерами, реализуя решения на основе <u>UX/UI для сайтов и сервисов</u>. Особое внимание он уделяет <u>оптимизация скорости загрузки сайта</u>, улучшая Core Web Vitals. Также он применяет <u>A/B тестирование</u> для повышения эффективности взаимодействия. Кроме того, он работает с SEO на техническом уровне через <u>SEO-оптимизация сайтов</u> и участвует в проектах по <u>Custom website development</u>.",
+      "skills": "HTML/CSS, JavaScript (ES6+), React, Vue, Адаптивная верстка, Core Web Vitals, API Integration, Technical SEO, Оптимизация производительности, Git, CI/CD"
+    },
+    "michael-turner": {
+      "name": "Michael Turner",
+      "role": "Backend Developer",
+      "h1": "Michael Turner — Backend Developer | Server-side Development и API Development",
+      "metaTitle": "Backend Developer Michael Turner — API, Cloud, SaaS | Company X",
+      "metaDescription": "Нанять backend разработчика для создания API и серверной логики. SaaS, cloud, интеграции, масштабируемые системы и стабильная работа продукта.",
+      "photoAlt": "Backend developer Michael Turner — серверная разработка и API",
+      "intro": "Michael Turner — опытный backend-разработчик с фокусом на создании надежной серверной логики, API и масштабируемых систем.",
+      "experience": "Michael Turner — backend developer с более чем 9-летним опытом в server-side разработке. Он активно участвовал в проектах по <u>Backend development</u>. Одним из ключевых направлений является <u>API development и integrations</u>. Michael также участвует в разработке <u>Custom software development</u> и <u>SaaS product development</u>. Он работает с <u>Cloud application development</u> и настраивает серверную инфраструктуру. В рамках проектов он внедряет <u>CI/CD pipeline setup</u> и <u>Deployment и release management</u>, обеспечивая стабильность продукта.",
+      "skills": "Backend development, API design, SQL/NoSQL, Архитектура микросервисов, Cloud development (AWS/GCP), CI/CD, Server security, Node.js, Python, DevOps practices"
+    },
+    "ryan-cooper": {
+      "name": "Ryan Cooper",
+      "role": "Fullstack Developer",
+      "h1": "Ryan Cooper — Fullstack Developer | Web Development и SaaS Development",
+      "metaTitle": "Fullstack Developer Ryan Cooper — Web, SaaS, API | Company X",
+      "metaDescription": "Нанять fullstack разработчика для создания web-приложений и SaaS. Frontend + backend, API, MVP и масштабируемые решения.",
+      "photoAlt": "Fullstack developer Ryan Cooper — разработка web-приложений и SaaS",
+      "intro": "Ryan Cooper — опытный fullstack-разработчик с фокусом на создании digital-продуктов под ключ — от интерфейса до серверной логики.",
+      "experience": "Ryan Cooper — fullstack developer с более чем 9-летним опытом. Он работает на стыке frontend и backend. Свою карьеру Ryan начал с <u>Frontend development</u>, а затем расширил экспертизу в <u>Backend development</u>. Он участвует в <u>MVP development</u>, помогая компаниям быстро запускать продукты. Ryan проектирует сложные решения, включая <u>SaaS product development</u> и <u>Custom software development</u>. Он реализует <u>API development и integrations</u> и уделяет внимание <u>оптимизация скорости загрузки сайта</u>. Также он внедряет <u>CI/CD pipeline setup</u> и реализует решения на основе <u>UX/UI для сайтов и сервисов</u>.",
+      "skills": "Fullstack (JS/TS), React, Node.js, API Design, SaaS development, MVP launch, Cloud apps, CI/CD, SQL/NoSQL, Performance optimization"
+    },
+    "oliver-grant": {
+      "name": "Oliver Grant",
+      "role": "DevOps Engineer",
+      "h1": "Oliver Grant — DevOps Engineer | Cloud Infrastructure и CI/CD",
+      "metaTitle": "DevOps Engineer Oliver Grant — CI/CD, Cloud, DevOps | Company X",
+      "metaDescription": "Нанять DevOps инженера для настройки CI/CD и cloud-инфраструктуры. Автоматизация, стабильность, масштабирование и поддержка сервисов.",
+      "photoAlt": "DevOps engineer Oliver Grant — cloud инфраструктура и автоматизация",
+      "intro": "Oliver Grant — опытный DevOps инженер с фокусом на автоматизации процессов, настройке инфраструктуры и обеспечении стабильной работы.",
+      "experience": "Oliver Grant — DevOps engineer с более чем 9-летним опытом. Он активно участвовал в проектах по <u>Cloud infrastructure setup</u>. Одним из ключевых направлений является <u>CI/CD pipeline setup</u>. Oliver работает с <u>Deployment и release management</u> и внедряет процессы <u>Monitoring и uptime support</u>. Он также участвует в <u>Cloud application development</u>, реализует решения в рамках <u>Интеграция сервисов и API</u> и проводит <u>Performance testing</u> для оптимизации инфраструктуры.",
+      "skills": "AWS/GCP/Azure, CI/CD, Docker, Kubernetes, Terraform (IaC), Monitoring (Prometheus/Grafana), Linux, Security, Automation, High-load systems"
+    },
+    "nathan-cole": {
+      "name": "Nathan Cole",
+      "role": "QA Engineer",
+      "h1": "Nathan Cole — QA Engineer | Software Testing и Quality Assurance",
+      "metaTitle": "QA Engineer Nathan Cole — Testing, QA, Quality | Company X",
+      "metaDescription": "Нанять QA инженера для тестирования и контроля качества. Software testing, QA, performance и стабильная работа продукта.",
+      "photoAlt": "QA engineer Nathan Cole — тестирование и контроль качества ПО",
+      "intro": "Nathan Cole — опытный QA инженер с фокусом на тестировании, обеспечении качества и стабильной работе digital-продуктов.",
+      "experience": "Nathan Cole — QA engineer с более чем 7-летним опытом. Он активно участвовал в проектах по <u>Quality assurance testing</u>. Nathan проводит <u>Cross-browser и cross-device testing</u> и работает с <u>Performance testing</u>. В рамках проектов он занимается <u>Bug fixing и maintenance</u>. Также он участвует в процессах <u>Testing и QA сопровождение проектов</u> и настраивает <u>CI/CD pipeline testing</u> для автоматизации проверок.",
+      "skills": "Manual Testing, Automation (Selenium/Cypress), API Testing (Postman), Regression Testing, Performance Testing, Bug Tracking (Jira), SDLC, CI/CD integration"
+    },
+    "lucas-bennett": {
+      "name": "Lucas Bennett",
+      "role": "AI/ML Engineer",
+      "h1": "Lucas Bennett — AI/ML Engineer | Machine Learning и AI Development",
+      "metaTitle": "AI/ML Engineer Lucas Bennett — AI, ML, LLM | Company X",
+      "metaDescription": "Нанять AI/ML инженера для разработки AI-решений. Machine learning, LLM, автоматизация и внедрение AI в бизнес.",
+      "photoAlt": "AI/ML engineer Lucas Bennett — machine learning и AI разработка",
+      "intro": "Lucas Bennett — опытный AI/ML инженер с фокусом на разработке интеллектуальных систем, машинного обучения и автоматизации бизнес-процессов.",
+      "experience": "Lucas Bennett — AI/ML engineer с более чем 8-летним опытом. Он активно участвовал в проектах по <u>AI-генерация текстов, изображений и видео</u>. Lucas занимается <u>разработка AI-ассистентов и чат-ботов на базе LLM</u>. Он также работает с <u>автоматизация обработки заявок и лидогенерация</u>. Lucas реализует <u>AI-powered features и integrations</u>, внедряет <u>автоматизация отчетности и аналитики</u> и создает ботов через <u>разработка Telegram-ботов и интеграция с мессенджерами</u>. Также он участвует в <u>custom software development</u> и <u>cloud application development</u>.",
+      "skills": "Machine Learning, Deep Learning, LLM (GPT, Claude, Llama), NLP, Computer Vision, Python, AI Integrations, Data Science, Neural Networks, Cloud AI Solutions"
+    },
+    "daniel-foster": {
+      "name": "Daniel Foster",
+      "role": "AI Consultant",
+      "h1": "Daniel Foster — AI Consultant | AI Strategy и AI Transformation",
+      "metaTitle": "AI Consultant Daniel Foster — AI Strategy, Automation | Company X",
+      "metaDescription": "Нанять AI-консультанта для внедрения AI и автоматизации бизнеса. AI-стратегия, чат-боты, LLM и рост эффективности.",
+      "photoAlt": "AI consultant Daniel Foster — AI стратегия и автоматизация бизнеса",
+      "intro": "Daniel Foster — опытный AI-консультант с фокусом на внедрении искусственного интеллекта и автоматизации бизнес-процессов.",
+      "experience": "Daniel Foster — AI consultant с более чем 10-летним опытом. Он занимается <u>автоматизация маркетинговых процессов</u> и проводит <u>маркетинговый аудит и анализ текущей ситуации</u>. Daniel помогает запускать <u>разработка AI-ассистентов и чат-ботов на базе LLM</u> и участвует в проектах по <u>автоматизация обработки заявок и лидогенерация</u>. Он реализует <u>AI-powered features и integrations</u>, внедряет <u>автоматизация отчетности и аналитики</u> и настраивает <u>разработка Telegram-ботов и интеграция с мессенджерами</u>, а также занимается <u>настройка CRM-систем</u>.",
+      "skills": "AI Strategy, Business Transformation, Workflow Automation, LLM Implementation, MarTech, CRM Setup, Data-Driven Decisions, Digital Consulting, AI Ethics"
+    }
+  },
+  "serviceDetails": {
+    "marketing-strategy": {
+      "h1": "Разработка маркетинговой стратегии для бизнеса | Digital marketing strategy",
+      "metaTitle": "Разработка маркетинговой стратегии для бизнеса | Company X",
+      "metaDescription": "Маркетинговая стратегия под ключ: аудит, анализ, воронки и рост продаж. Помогаем бизнесу масштабироваться и увеличивать прибыль.",
+      "description": "Разработка маркетинговой стратегии — это фундамент, на котором строится устойчивый рост бизнеса в digital-среде. В работе над стратегией участвует <u>маркетолог</u>, который формирует общую логику продвижения. <u>Аналитик</u> глубоко погружается в данные, проводит маркетинговый аудит. Параллельно подключается <u>копирайтер</u>, который отвечает за смыслы. В проектах участвует <u>UX/UI дизайнер</u>, повышая эффективность каждого этапа. Используются технологии автоматизации, где подключается <u>AI-консультант</u>.",
+      "includes": "Маркетинговый аудит и анализ | Анализ конкурентов | Сегментация целевой аудитории | Разработка маркетинговых воронок | Разработка УТП | Позиционирование бренда | Медиапланирование | Бюджетирование",
+      "steps": "Анализ бизнеса и целей: Изучаем продукт, рынок и задачи | Маркетинговый аудит: Определяем текущее состояние | Анализ конкурентов: Находим точки роста | Исследование аудитории: Формируем портреты клиентов | Разработка стратегии: Создаем roadmap маркетинга | Формирование воронки: Определяем каналы привлечения | План внедрения: Передаем четкий план действий",
+      "suitableFor": "Стартапы, SaaS, E-commerce, B2B, Компании без системного маркетинга",
+      "team": "Маркетолог, Аналитик, Копирайтер, UX/UI дизайнер, AI-консультант",
+      "faqCount": "4",
+      "faq": {
+        "1": {
+          "q": "Сколько стоит разработка маркетинговой стратегии?",
+          "a": "Стоимость зависит от объема проекта и затраченного на него времени."
+        },
+        "2": {
+          "q": "Сколько времени занимает работа?",
+          "a": "В среднем 2–6 недель."
+        },
+        "3": {
+          "q": "Можно ли заказать только аудит?",
+          "a": "Да, это отдельная услуга."
+        },
+        "4": {
+          "q": "Вы внедряете стратегию?",
+          "a": "Да, мы можем реализовать ее под ключ."
+        }
+      }
+    },
+    "branding-identity": {
+      "h1": "Брендинг и айдентика для бизнеса | Brand identity и разработка бренда",
+      "metaTitle": "Брендинг и айдентика для бизнеса | Company X",
+      "metaDescription": "Разработка бренда под ключ: логотип, фирменный стиль, брендбук и позиционирование. Создаем бренды, которые запоминаются и продают.",
+      "description": "Брендинг и айдентика — это целостная система восприятия вашего бизнеса на рынке. На старте проекта подключается <u>маркетолог</u>, чтобы определить позиционирование. Параллельно <u>аналитик</u> проводит анализ конкурентной среды. Ключевую роль играет <u>UX/UI дизайнер</u>, который разрабатывает фирменный стиль. Подключается <u>копирайтер</u>, который помогает сформировать слоган. При необходимости подключается <u>AI-консультант</u> для генерации решений.",
+      "includes": "Разработка фирменного стиля | Создание брендбука | Ребрендинг | Нейминг | Разработка слогана | Дизайн упаковки | Дизайн мерча | Арт-дирекшн",
+      "steps": "Анализ бизнеса: Изучаем продукт и рынок | Исследование: Проводим анализ конкурентов | Стратегия: Формируем позиционирование | Концепция: Создаем визуальное направление | Дизайн: Разрабатываем фирменный стиль | Коммуникация: Формируем tone of voice | Брендбук: Фиксируем правила",
+      "suitableFor": "Стартапы, Компании на этапе роста, SaaS, E-commerce",
+      "team": "Маркетолог, Аналитик, UX/UI дизайнер, Копирайтер, AI-консультант",
+      "faqCount": "4",
+      "faq": {
+        "1": {
+          "q": "Сколько стоит брендинг?",
+          "a": "Зависит от объема и задач проекта."
+        },
+        "2": {
+          "q": "Сколько времени занимает разработка?",
+          "a": "В среднем 2–5 недель."
+        },
+        "3": {
+          "q": "Можно ли заказать только логотип?",
+          "a": "Да, но лучше делать полный брендинг."
+        },
+        "4": {
+          "q": "Вы делаете брендбук?",
+          "a": "Да, это важная часть услуги."
+        }
+      }
+    },
+    "ux-ui-design": {
+      "h1": "UX/UI дизайн для сайтов и digital-продуктов | Проектирование интерфейсов",
+      "metaTitle": "UX/UI дизайн для сайтов и digital-продуктов | Company X",
+      "metaDescription": "UX/UI дизайн для сайтов, SaaS и приложений: исследования, прототипы, интерфейсы, дизайн-системы и рост конверсии. Создаем удобные digital-продукты.",
+      "description": "UX/UI дизайн — это система, которая помогает пользователю быстро понять продукт и дойти до нужного действия. В центре процесса находится <u>UX/UI дизайнер</u>, отвечающий за логику пути. В работу также подключается <u>аналитик</u> для исследований. На стратегическом уровне участвует <u>маркетолог</u>. При необходимости подключается <u>копирайтер</u>, а затем <u>Frontend-разработчик</u> и <u>QA инженер</u>.",
+      "includes": "Product discovery | UX research | User personas и journey mapping | Information architecture | UX wireframes | Clickable prototypes | UI design для web и mobile | Design systems",
+      "steps": "Погружение: Изучаем продукт, цели и аудиторию | Исследование: Проводим UX research и анализируем поведение | Анализ рынка: Изучаем конкурентную среду | Проектирование: Формируем архитектуру и User flows | Прототипирование: Разрабатываем wireframes и кликабельные прототипы | Визуальный дизайн: Создаем UI дизайн | Передача: Собираем дизайн-систему для разработчиков | Проверка: Тестирование и Usability optimization",
+      "suitableFor": "Стартапы, SaaS-сервисы, E-commerce, B2B-компании",
+      "team": "UX/UI дизайнер, Аналитик, Маркетолог, Копирайтер, Frontend-разработчик, QA инженер",
+      "faqCount": "5",
+      "faq": {
+        "1": { "q": "Сколько стоит UX/UI дизайн?", "a": "Стоимость зависит от объема проекта, количества экранов и глубины исследований." },
+        "2": { "q": "Можно ли заказать только UI без UX?", "a": "Можно, но эффективнее делать UX/UI в комплексе для лучшей конверсии." },
+        "3": { "q": "Вы делаете дизайн только для сайтов?", "a": "Нет, мы разрабатываем интерфейсы для SaaS, приложений и корпоративных сервисов." },
+        "4": { "q": "Можно ли сделать редизайн текущего продукта?", "a": "Да, мы можем переработать существующий интерфейс." },
+        "5": { "q": "Вы передаете дизайн в разработку?", "a": "Да, мы готовим макеты и спецификации для передачи." }
+      }
+    },
+    "web-development": {
+      "h1": "Разработка сайтов и web-приложений | Web Development под ключ",
+      "metaTitle": "Разработка сайтов и web-приложений | Company X",
+      "metaDescription": "Создание сайтов под ключ: web-разработка, frontend, backend, SEO и оптимизация. Быстрые, удобные и масштабируемые решения.",
+      "description": "Веб-разработка — это важнейший инструмент роста бизнеса. В проекте участвует <u>Frontend-разработчик</u>, который отвечает за интерфейс. <u>Backend-разработчик</u> выстраивает серверную логику. Для сложных платформ подключается <u>Fullstack-разработчик</u>. На этапе проектирования участвует <u>UX/UI дизайнер</u> и <u>маркетолог</u>. После разработки проект проверяет <u>QA инженер</u>.",
+      "includes": "Корпоративные сайты | Лендинги | E-commerce решения | Custom website development | Frontend development | Backend development | SEO-оптимизация | Техническая поддержка",
+      "steps": "Анализ: Определяем цели проекта и задачи | Проектирование: Формируем структуру вместе с UX/UI дизайнером | Архитектура: Проектируем техническую часть | Frontend: Реализуем интерфейс | Backend: Настраиваем серверную часть и логику | Интеграции: Подключаем сервисы через API | Тестирование: Проводим QA проверку | Запуск: Публикуем и оптимизируем сайт",
+      "suitableFor": "Стартапы, SaaS, E-commerce, B2B, Компании с устаревшими сайтами",
+      "team": "Frontend-разработчик, Backend-разработчик, UX/UI дизайнер, QA инженер, Маркетолог",
+      "faqCount": "5",
+      "faq": {
+        "1": { "q": "Сколько стоит разработка сайта?", "a": "Стоимость зависит от сложности, функциональности и объема работ." },
+        "2": { "q": "Сколько времени занимает разработка?", "a": "От 2–4 недель для простых проектов до нескольких месяцев для сложных." },
+        "3": { "q": "Вы делаете сайты под ключ?", "a": "Да, включая дизайн, разработку и запуск." },
+        "4": { "q": "Можно ли доработать существующий сайт?", "a": "Да, мы можем улучшить текущий проект." },
+        "5": { "q": "Вы поддерживаете проекты после запуска?", "a": "Да, доступна техническая поддержка и сопровождение." }
+      }
+    },
+    "product-software-dev": {
+      "h1": "Разработка digital-продуктов и ПО | Product & Software Development",
+      "metaTitle": "Разработка digital-продуктов и SaaS | Company X",
+      "metaDescription": "Product и software development под ключ. MVP, SaaS, API, автоматизация и масштабируемые решения для бизнеса.",
+      "description": "Product development — это создание digital-продукта от гипотезы до масштабирования. На старте подключаются <u>аналитик</u> и <u>маркетолог</u>. Ключевую роль играет техническая команда: <u>Fullstack-разработчик</u>, <u>Backend-разработчик</u> и <u>Frontend-разработчик</u>. При необходимости внедряются решения от <u>AI/ML инженер</u>. За качество отвечает <u>QA инженер</u>.",
+      "includes": "Product discovery | MVP development | Custom software development | SaaS product development | Cloud application development | API development и integrations | Internal tools",
+      "steps": "Исследование: Анализируем рынок и аудиторию | Discovery: Формируем концепцию продукта | MVP: Создаем минимальную версию для тестов | Архитектура: Проектируем структуру системы | Разработка: Реализуем frontend и backend | Интеграции: Подключаем сервисы | Тестирование: Проводим QA контроль | Масштабирование: Развиваем продукт",
+      "suitableFor": "Стартапы, SaaS-компании, B2B сервисы, Технологические бизнесы",
+      "team": "Fullstack-разработчик, Backend-разработчик, Frontend-разработчик, Аналитик, Маркетолог, AI/ML инженер, QA инженер",
+      "faqCount": "5",
+      "faq": {
+        "1": { "q": "Сколько стоит разработка продукта?", "a": "Зависит от сложности и функциональности." },
+        "2": { "q": "Что такое MVP?", "a": "Это минимальная версия продукта для быстрого тестирования идеи на рынке." },
+        "3": { "q": "Сколько времени занимает разработка?", "a": "От нескольких недель до нескольких месяцев." },
+        "4": { "q": "Можно ли доработать существующий продукт?", "a": "Да, мы можем провести аудит и масштабировать систему." },
+        "5": { "q": "Вы помогаете после запуска?", "a": "Да, мы обеспечиваем техническую поддержку и развитие." }
+      }
+    }
+
+  }
+}
