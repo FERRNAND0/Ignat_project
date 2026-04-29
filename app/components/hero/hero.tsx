@@ -198,7 +198,7 @@ export default function Hero() {
       <div className="mt-4 flex justify-center sm:justify-end lg:absolute lg:bottom-4 lg:right-8 lg:mt-0">
         <div className="flex items-center gap-2">
           <Link
-            href="#"
+            href="https://www.instagram.com/ie.group.creative?igsh=Z29tYW0wMXN3dWxy"
             aria-label="Instagram"
             className="grid place-items-center rounded-full text-[10px] text-white"
           >
@@ -210,7 +210,7 @@ export default function Hero() {
             />
           </Link>
           <Link
-            href="#"
+            href="https://t.me/lazzurr"
             aria-label="Telegram"
             className="grid place-items-center rounded-full text-[10px] text-white"
           >
