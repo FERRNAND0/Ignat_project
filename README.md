@@ -42,3 +42,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 - **Локально:** в `my-app/.env.local` задай `CRM_API_URL` и `NEXT_PUBLIC_API_URL` на `http://127.0.0.1:8010` (или порт из `.env` CRM), запусти CRM и `npm run dev`.
 - **Прод (Vercel):** задай те же переменные на **публичный HTTPS** URL задеплоенного CRM (не `localhost`). Подробно: [`../servers/google-sheets-crm/README.md`](../servers/google-sheets-crm/README.md) — раздел «Деплой в облако и связка с Next».
 # Ignat_project
+# Ignat_project
