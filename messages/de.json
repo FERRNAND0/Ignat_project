@@ -16,48 +16,19 @@
     "title": "Umfassende Förderung Ihres Unternehmens von",
     "videoAria": "Werbeanimation mit Ton"
   },
-  "workers": {
+"workers": {
     "nextSlide": "Nächste Folie",
     "prevSlide": "Vorherige Folie",
     "openProfile": "Profil öffnen",
     "showMore": "Mehr anzeigen",
     "title": "Spezialisten",
     "items": {
-      "anastasia": {
-        "name": "Anastasia Jakowlewa",
-        "role": "Designerin",
-        "experience": "3 Jahre Erfahrung"
-      },
-      "alexey": {
-        "name": "Alexej Petrow",
-        "role": "Targeting-Spezialist",
-        "experience": "5 Jahre Erfahrung"
-      },
-      "maria": {
-        "name": "Maria Sokolova",
-        "role": "SMM-Spezialistin",
-        "experience": "4 Jahre Erfahrung"
-      },
-      "arina": {
-        "name": "Arina Kusnezowa",
-        "role": "SEO-Spezialistin",
-        "experience": "7 Jahre Erfahrung"
-      },
-      "vyacheslav": {
-        "name": "Wjatscheslaw Makuschew",
-        "role": "Targeting-Spezialist",
-        "experience": "4 Jahre Erfahrung"
-      },
-      "ivan": {
-        "name": "Iwan Tichonow",
-        "role": "Manager",
-        "experience": "6 Jahre Erfahrung"
-      },
-      "elizaveta": {
-        "name": "Elizaveta Orlova",
-        "role": "Content-Managerin",
-        "experience": "5 Jahre Erfahrung"
-      }
+      "leo-carter": { "name": "Leo Carter", "role": "Product Manager", "experience": "8 Jahre Erfahrung" },
+      "alex-morgan": { "name": "Alex Morgan", "role": "Digital Marketing", "experience": "9 Jahre Erfahrung" },
+      "emma-collins": { "name": "Emma Collins", "role": "UX/UI Designer", "experience": "8 Jahre Erfahrung" },
+      "daniel-reed": { "name": "Daniel Reed", "role": "Data Analyst", "experience": "8 Jahre Erfahrung" },
+      "sophia-bennett": { "name": "Sophia Bennett", "role": "Copywriter", "experience": "7 Jahre Erfahrung" },
+      "ethan-brooks": { "name": "Ethan Brooks", "role": "Frontend Developer", "experience": "8 Jahre Erfahrung" }
     }
   },
   "servicesSection": {
@@ -66,43 +37,33 @@
       "popular": {
         "title": "Am häufigsten bestellt",
         "items": {
-          "targetedMetaVkTiktok": "Targeted-Werbung für Meta, VK, TikTok",
-          "contextGoogleYandex": "Kontextwerbung in Google Ads / Yandex Direct",
-          "seoPromotion": "SEO-Optimierung der Website",
-          "corporateWebsite": "Entwicklung einer Unternehmenswebsite",
-          "smmManagement": "SMM - Betreuung sozialer Netzwerke",
-          "adCreatives": "Erstellung von Werbekreativen",
-          "copywriting": "Copywriting (Texte für Website und Werbung)",
-          "analyticsSetup": "Einrichtung von Analytics (Google Analytics, Yandex Metrica)",
-          "emailMarketing": "E-Mail-Marketing (Kampagnen-Setup)"
+          "web-development": "Webentwicklung",
+          "mobile-development": "App-Entwicklung",
+          "smm-social-media": "SMM & Social Media",
+          "context-display-ads": "Kontextbezogene Werbung",
+          "seo-promotion": "SEO-Promotion",
+          "ux-ui-design": "UX/UI-Design"
         }
       },
       "middle": {
         "title": "Mittlere Bestellhäufigkeit",
         "items": {
-          "websiteRedesign": "Website-Redesign",
-          "uxUiDesign": "UX/UI-Design",
-          "abTesting": "A/B-Tests für Anzeigen und Landingpages",
-          "marketplacePromotion": "Promotion auf Marktplätzen",
-          "onlineStoreCreation": "Erstellung eines Onlineshops",
-          "influencerAds": "Influencer-Marketing (Blogger-Auswahl)",
-          "videoProduction": "Videoanzeigen / Videoproduktion",
-          "crmAutomation": "Einrichtung von CRM und Automatisierung",
-          "localSeo": "Lokales SEO (Maps, Google Business Profile)"
+          "marketing-strategy": "Marketingstrategie",
+          "branding-identity": "Branding & Identität",
+          "content-marketing": "Content Marketing",
+          "lead-generation-b2b": "B2B Lead-Generierung",
+          "email-marketing": "E-Mail-Marketing",
+          "analytics-reporting": "Web Analytics"
         }
       },
       "rare": {
         "title": "Seltener, aber regelmäßig bestellt",
         "items": {
-          "logoDesign": "Logo-Entwicklung",
-          "brandIdentity": "Entwicklung des Corporate Designs",
-          "prPublications": "PR-Veröffentlichungen in Medien",
-          "brandbook": "Brandbook",
-          "marketingResearch": "Marktforschung",
-          "businessPhotography": "Business-Fotografie",
-          "presentationDesign": "Erstellung von Präsentationen",
-          "chatbots": "Chatbots für Website / Messenger",
-          "quizLandingPages": "Entwicklung von Quiz-Landingpages"
+          "product-software-dev": "SaaS & Softwareentwicklung",
+          "pr-communications": "PR & Reputationsmanagement",
+          "automation-martech": "CRM & Automatisierung",
+          "ai-agents-automation": "KI-Agenten",
+          "testing-qa-devops": "QA Testing & DevOps"
         }
       }
     }
@@ -393,5 +354,445 @@
   "title": "Vielen Dank für Ihre Anfrage!",
   "description": "Unser Manager wird sich в Kürze mit Ihnen in Verbindung setzen.",
   "button": "Zurück zur Startseite"
-}
+},
+"teamDetails": {
+    "leo-carter": {
+      "name": "Leo Carter",
+      "role": "Product Manager",
+      "h1": "Leo Carter — Product Manager | SaaS & Digital Product Manager",
+      "metaTitle": "Product Manager Leo Carter — MVP, SaaS, UX, CRO",
+      "metaDescription": "Erfahrener Product Manager mit über 8 Jahren Erfahrung. MVP-Launch, SaaS-Produktentwicklung, UX und Conversion-Wachstum. Echte Cases und Ergebnisse.",
+      "photoAlt": "Leo Carter — Product Manager",
+      "intro": "Leo Carter ist ein erfahrener Product Manager mit Fokus auf die Entwicklung digitaler Produkte und das Wachstum von Nutzerkennzahlen. Er ist auf Produktmanagement, MVP-Launches und die Optimierung der User Experience (UX) spezialisiert.",
+      "experience": "Leo Carter ist ein Product Manager mit über 8 Jahren Erfahrung in digitalen Produkten, SaaS und E-Commerce. Er begann seine Karriere als Produktanalyst und nahm aktiv an <u>UX research, qualitative und quantitative Forschung</u> teil, um Hypothesen zu bilden. Als Product Manager verantwortete Leo den gesamten Zyklus, von der <u>Product discovery</u> bis zum Launch. Er beteiligte sich aktiv an der <u>Entwicklung der Marketingstrategie</u>. Eine seiner Kernkompetenzen ist der Launch von Produkten von Grund auf, oft als Leiter von <u>MVP development</u>-Prozessen. Leo legt besonderen Wert auf Benutzerfreundlichkeit und Produkteffizienz und arbeitet regelmäßig mit <u>Conversion optimization, CRO</u> und <u>A/B-Testing</u>. Er ist auch an der <u>SEO-Optimierung von Websites</u> und dem organischen Traffic-Wachstum beteiligt.",
+      "skills": "Produktmanagement, Product discovery, Datenanalyse, UX-Forschung, Agile / Scrum / Kanban, MVP-Entwicklung, SaaS, A/B-Testing, CRO, SEO"
+    },
+    "alex-morgan": {
+      "name": "Alex Morgan",
+      "role": "Digital Marketing Specialist",
+      "h1": "Alex Morgan — Digital Marketing Specialist | Performance & Growth",
+      "metaTitle": "Digital Marketing Specialist Alex Morgan — SEO, Ads, CRO",
+      "metaDescription": "Mieten Sie einen Marketer für Unternehmenswachstum. SEO, Werbung, Lead-Generierung, CRO, Analytik und Skalierung von Projekten.",
+      "photoAlt": "Alex Morgan — Experte für Performance Marketing und SEO",
+      "intro": "Alex Morgan ist ein erfahrener Digital Marketer mit Fokus auf Geschäftswachstum, Lead-Generierung und die Skalierung von Online-Projekten.",
+      "experience": "Alex Morgan hat über 9 Jahre Erfahrung in den Bereichen Internet-Marketing, Performance Marketing und B2B/B2C-Projekte. Er begann mit der Analyse und vertiefte sich in <u>Marketing-Audits und Ist-Zustands-Analysen</u>. Schon früh wandte er die <u>Konkurrenz- und Wettbewerbsumfeldanalyse</u> an. Mit der Zeit entwickelte Alex umfassende <u>Marketingstrategien</u>. In seinen Projekten arbeitet er aktiv an der <u>Zielgruppensegmentierung und Erstellung von Kunden-Personas</u>, um effektive <u>Marketing-Funnel</u> aufzubauen. Sein Schwerpunkt liegt auf Performance Marketing: Management von <u>Google Ads</u>, Retargeting, <u>A/B-Testing</u> und <u>Conversion optimization, CRO</u>. Alex legt großen Wert auf organisches Wachstum durch <u>SEO-Optimierung von Websites</u> und hat Erfahrung im <u>Content-Marketing</u>. Zur datengesteuerten Entscheidungsfindung richtet er <u>Web-Analytik (Google Analytics 4)</u> ein und erstellt <u>Dashboards und automatisiertes Reporting</u>.",
+      "skills": "Digitales Marketing, Performance Marketing, Wachstumsstrategien, Lead-Generierung, Sales Funnels, SEO, Kontextbezogene Werbung, CRO, A/B-Testing, SMM, Google Analytics 4"
+    },
+    "emma-collins": {
+      "name": "Emma Collins",
+      "role": "UX/UI Designer",
+      "h1": "Emma Collins — UX/UI Designer | Product Design & Digital Design",
+      "metaTitle": "UX/UI Designer Emma Collins — Product Design, UX, UI, CRO",
+      "metaDescription": "Beauftragen Sie einen UX/UI Designer für Benutzeroberflächen und Conversion-Wachstum. UX-Research, UI-Design, Prototyping und CRO.",
+      "photoAlt": "Emma Collins — Produktdesign und Web-/Mobile-Interfaces",
+      "intro": "Emma Collins ist eine UX/UI Designerin, spezialisiert auf die Erstellung intuitiver, konversionsstarker und visuell ansprechender digitaler Produkte.",
+      "experience": "Emma Collins hat über 8 Jahre Erfahrung in den Bereichen Produktdesign, Webdesign und digitale Schnittstellen. Sie begann mit Grafikdesign und wechselte zum Produktdesign, wo sie sich tief in <u>UX research, qualitative und quantitative Forschung</u> einarbeitete. Einer ihrer wichtigsten Schritte ist die <u>Product discovery</u>. Sie beteiligt sich aktiv an der <u>Produktstrategie und Feature-Definition</u>. Emma entwickelt User Flows und Prototypen unter Verwendung von <u>UX-Wireframes</u> und <u>klickbaren Prototypen</u>. Die visuelle Komponente ist ihre Stärke: Sie kreiert <u>UI-Design für Web und Mobile</u> und gestaltet <u>Design systems</u>. Emma arbeitet intensiv an der <u>Usability-Optimierung</u>, <u>Conversion optimization, CRO</u> und <u>A/B-Testing</u> und integriert dabei die <u>Markenstrategie und Positionierung</u>.",
+      "skills": "UX/UI Design, Product Design, UX-Forschung, User Flows, Prototyping, UI Design, Design systems, Usability-Optimierung, CRO, A/B-Testing, Interaction Design"
+    },
+    "daniel-reed": {
+      "name": "Daniel Reed",
+      "role": "Data Analyst",
+      "h1": "Daniel Reed — Data Analyst | Web Analytics & Marketing Analytics",
+      "metaTitle": "Data Analyst Daniel Reed — Web Analytics, CRO, BI",
+      "metaDescription": "Beauftragen Sie einen Datenanalysten für Unternehmenswachstum. Web-Analytik, BI, A/B-Testing, CRO und Dashboards.",
+      "photoAlt": "Daniel Reed — Web-Analytik, BI und Datenanalyse",
+      "intro": "Daniel Reed ist ein erfahrener Datenanalyst mit Schwerpunkt auf Web-Analytik, Marketing-Analytik und dem Wachstum von Geschäftskennzahlen.",
+      "experience": "Daniel Reed verfügt über mehr als 8 Jahre Erfahrung in der Datenanalyse. Er begann mit der Analyse des Nutzerverhaltens und konzentrierte sich auf die <u>Einrichtung von Web-Analytik (Google Analytics 4)</u>. Sein Spezialgebiet ist die <u>Konversionsanalyse und CRO</u>. Er nutzt aktiv <u>A/B-Testing</u>, um Hypothesen zu validieren. Daniel führt auch strategische Analysen durch <u>Marketing-Audits und Ist-Zustands-Analysen</u> sowie <u>Konkurrenz- und Wettbewerbsumfeldanalysen</u> durch. Er kümmert sich um die <u>Zielgruppensegmentierung</u> und erstellt <u>Dashboards und automatisiertes Reporting</u>. Darüber hinaus hilft er bei der <u>Entwicklung von Marketing-Funnels</u> und bewertet deren Wirksamkeit.",
+      "skills": "Datenanalyse, Web-Analytik, Google Analytics 4, BI-Systeme, Konversionsanalyse, CRO, A/B-Testing, Marketing-Analytik, SQL, Power BI, Looker Studio"
+    },
+    "sophia-bennett": {
+      "name": "Sophia Bennett",
+      "role": "Copywriter",
+      "h1": "Sophia Bennett — Copywriter | Content Marketing & SEO Copywriting",
+      "metaTitle": "Copywriter Sophia Bennett — SEO-Texte, Content, CRO",
+      "metaDescription": "Mieten Sie einen Texter für Ihre Website. SEO-Texte, Content-Marketing, E-Mails und CRO. Texte, die verkaufen.",
+      "photoAlt": "Sophia Bennett — SEO-Texte, Content-Marketing und Copywriting",
+      "intro": "Sophia Bennett ist eine erfahrene Werbetexterin, die sich auf die Erstellung von Texten konzentriert, die Traffic anziehen, das Publikum binden und konvertieren.",
+      "experience": "Sophia Bennett hat über 7 Jahre Erfahrung in den Bereichen Content-Marketing und SEO-Copywriting. Sie begann mit dem <u>Copywriting für Websites, Newsletter und Werbung</u>. Ein Schwerpunkt ist <u>SEO-Content</u>. Sie versteht die Zielgruppe durch <u>Zielgruppensegmentierung</u> tiefgehend. Sophia hilft beim <u>Aufbau von Marketing-Funnels</u>, indem sie Texte für verschiedene Phasen erstellt. Sie nutzt <u>A/B-Testing</u> und versteht den Einfluss von Texten auf die <u>Conversion optimization, CRO</u>. Darüber hinaus kümmert sie sich um die <u>Erstellung und Einrichtung von E-Mail-Newslettern</u> und beteiligt sich an <u>Content-Marketing</u>-Strategien.",
+      "skills": "Copywriting, SEO-Copywriting, Content-Marketing, Verkaufstexte, Newsletter, Text-Funnels, Semantik, UX Writing, Storytelling, A/B-Testing"
+    },
+    "ethan-brooks": {
+      "name": "Ethan Brooks",
+      "role": "Frontend Developer",
+      "h1": "Ethan Brooks — Frontend Developer | Web Development & UI Engineering",
+      "metaTitle": "Frontend Developer Ethan Brooks — React, UI, Web",
+      "metaDescription": "Beauftragen Sie einen Frontend-Entwickler. Schnelle Schnittstellen, UI, React, Geschwindigkeitsoptimierung und SEO.",
+      "photoAlt": "Ethan Brooks — Entwicklung von Interfaces und Web-Apps",
+      "intro": "Ethan Brooks ist ein Frontend-Entwickler, spezialisiert auf die Erstellung schneller, reaktionsschneller und benutzerfreundlicher Schnittstellen.",
+      "experience": "Ethan Brooks hat über 8 Jahre Erfahrung in der Webentwicklung. Er beteiligt sich aktiv an <u>Frontend development</u>-Projekten. Er arbeitet eng mit Designern zusammen, um <u>UX/UI für Websites und Services</u> umzusetzen. Besonderes Augenmerk legt er auf die <u>Optimierung der Ladezeit der Website</u> (Core Web Vitals). Er wendet <u>A/B-Testing</u> an, um die Interaktionen zu verbessern. Außerdem kümmert er sich um technisches SEO durch <u>SEO-Optimierung von Websites</u> und nimmt an <u>Custom website development</u>-Projekten teil.",
+      "skills": "HTML/CSS, JavaScript (ES6+), React, Vue, Responsive Design, Core Web Vitals, API-Integration, Technisches SEO, Performance-Optimierung, Git, CI/CD"
+    },
+    "michael-turner": {
+      "name": "Michael Turner",
+      "role": "Backend Developer",
+      "h1": "Michael Turner — Backend Developer | Server-side & API Development",
+      "metaTitle": "Backend Developer Michael Turner — API, Cloud, SaaS",
+      "metaDescription": "Mieten Sie einen Backend-Entwickler für Serverlogik und APIs. SaaS, Cloud, Integrationen und skalierbare Systeme.",
+      "photoAlt": "Michael Turner — Server- und API-Entwicklung",
+      "intro": "Michael Turner ist ein Backend-Entwickler, fokussiert auf die Erstellung zuverlässiger Serverlogik, APIs und skalierbarer Systeme.",
+      "experience": "Michael Turner verfügt über mehr als 9 Jahre Erfahrung in der serverseitigen Entwicklung. Er engagiert sich in <u>Backend development</u>-Projekten mit besonderem Fokus auf <u>API development und integrations</u>. Michael beteiligt sich an <u>Custom software development</u> und <u>SaaS product development</u>. Er arbeitet im Bereich <u>Cloud application development</u> und richtet die Serverinfrastruktur ein. Er implementiert <u>CI/CD pipeline setup</u> und managt das <u>Deployment und Release-Management</u> zur Gewährleistung der Stabilität.",
+      "skills": "Backend-Entwicklung, API-Design, SQL/NoSQL, Microservices-Architektur, Cloud-Entwicklung (AWS/GCP), CI/CD, Serversicherheit, Node.js, Python"
+    },
+    "ryan-cooper": {
+      "name": "Ryan Cooper",
+      "role": "Fullstack Developer",
+      "h1": "Ryan Cooper — Fullstack Developer | Web Development & SaaS",
+      "metaTitle": "Fullstack Developer Ryan Cooper — Web, SaaS, API",
+      "metaDescription": "Beauftragen Sie einen Fullstack-Entwickler für Web-Apps und SaaS. Frontend + Backend, API, MVP und skalierbare Lösungen.",
+      "photoAlt": "Ryan Cooper — Entwicklung von Web-Apps und SaaS",
+      "intro": "Ryan Cooper ist ein Fullstack-Entwickler, der schlüsselfertige digitale Produkte entwickelt — von der Benutzeroberfläche bis zur Serverlogik.",
+      "experience": "Ryan Cooper hat über 9 Jahre Erfahrung an der Schnittstelle von Frontend und Backend. Er begann mit der <u>Frontend development</u> und erweiterte seine Expertise um die <u>Backend development</u>. Er unterstützt Unternehmen beim <u>MVP development</u> für schnelle Produkteinführungen. Ryan konzipiert komplexe Lösungen, einschließlich <u>SaaS product development</u> und <u>Custom software development</u>. Er leitet <u>API development und integrations</u> und fokussiert sich auf die <u>Optimierung der Ladezeit</u>. Er implementiert <u>CI/CD pipeline setup</u> und Lösungen basierend auf <u>UX/UI für Websites und Services</u>.",
+      "skills": "Fullstack (JS/TS), React, Node.js, API-Design, SaaS-Entwicklung, MVP-Launch, Cloud Apps, CI/CD, SQL/NoSQL, Performance-Optimierung"
+    },
+    "oliver-grant": {
+      "name": "Oliver Grant",
+      "role": "DevOps Engineer",
+      "h1": "Oliver Grant — DevOps Engineer | Cloud Infrastructure & CI/CD",
+      "metaTitle": "DevOps Engineer Oliver Grant — CI/CD, Cloud, DevOps",
+      "metaDescription": "Beauftragen Sie einen DevOps-Ingenieur für CI/CD und Cloud-Infrastruktur. Automatisierung, Stabilität und Skalierung.",
+      "photoAlt": "Oliver Grant — Cloud-Infrastruktur und Automatisierung",
+      "intro": "Oliver Grant ist ein DevOps-Ingenieur mit Schwerpunkt auf Prozessautomatisierung, Infrastrukturkonfiguration und Betriebsstabilität.",
+      "experience": "Oliver Grant hat über 9 Jahre Erfahrung. Er ist in die <u>Cloud infrastructure setup</u> eingebunden. Einer seiner Schwerpunkte ist das <u>CI/CD pipeline setup</u>. Oliver arbeitet am <u>Deployment und Release-Management</u> und integriert Prozesse für <u>Monitoring und Uptime-Support</u>. Er beteiligt sich am <u>Cloud application development</u>, realisiert <u>Integration von Services und APIs</u> und führt <u>Performance testing</u> zur Optimierung durch.",
+      "skills": "AWS/GCP/Azure, CI/CD, Docker, Kubernetes, Terraform (IaC), Überwachung (Prometheus/Grafana), Linux, Sicherheit, Automatisierung"
+    },
+    "nathan-cole": {
+      "name": "Nathan Cole",
+      "role": "QA Engineer",
+      "h1": "Nathan Cole — QA Engineer | Software Testing & Quality Assurance",
+      "metaTitle": "QA Engineer Nathan Cole — Testing, QA, Quality",
+      "metaDescription": "Beauftragen Sie einen QA-Ingenieur für Tests und Qualitätskontrolle. Softwaretests, QA, Performance und stabiler Betrieb.",
+      "photoAlt": "Nathan Cole — Softwaretests und Qualitätssicherung",
+      "intro": "Nathan Cole ist ein QA-Ingenieur mit Fokus auf Tests, Qualitätssicherung und den stabilen Betrieb digitaler Produkte.",
+      "experience": "Nathan Cole hat über 7 Jahre Erfahrung. Er ist aktiv in <u>Quality assurance testing</u>-Projekten. Nathan führt <u>Cross-Browser- und Cross-Device-Tests</u> durch und verwaltet <u>Performance testing</u>. Er kümmert sich um <u>Bug fixing und Maintenance</u>. Außerdem beteiligt er sich am <u>Testing- und QA-Support für Projekte</u> und konfiguriert <u>CI/CD pipeline testing</u> zur Automatisierung.",
+      "skills": "Manuelle Tests, Automatisierung (Selenium/Cypress), API-Tests, Regressionstests, Performance-Tests, Bug Tracking (Jira), CI/CD Integration"
+    },
+    "lucas-bennett": {
+      "name": "Lucas Bennett",
+      "role": "AI/ML Engineer",
+      "h1": "Lucas Bennett — AI/ML Engineer | Machine Learning & AI Development",
+      "metaTitle": "AI/ML Engineer Lucas Bennett — AI, ML, LLM",
+      "metaDescription": "Beauftragen Sie einen AI/ML-Ingenieur für KI-Lösungen. Machine Learning, LLM, Automatisierung und Integration.",
+      "photoAlt": "Lucas Bennett — Machine Learning und KI-Entwicklung",
+      "intro": "Lucas Bennett ist ein AI/ML-Ingenieur, spezialisiert auf intelligente Systeme, maschinelles Lernen und die Automatisierung von Geschäftsprozessen.",
+      "experience": "Lucas Bennett hat über 8 Jahre Erfahrung. Er engagiert sich in der <u>KI-Generierung von Texten, Bildern und Videos</u>. Lucas ist Experte für die <u>Entwicklung von KI-Assistenten und LLM-basierten Chatbots</u>. Er arbeitet an der <u>Automatisierung der Lead- und Anfragenbearbeitung</u>. Lucas implementiert <u>KI-gestützte Funktionen und Integrationen</u>, <u>Automatisierung von Reporting und Analytik</u> und die <u>Entwicklung von Telegram-Bots mit Messenger-Integration</u>. Er ist auch an <u>Custom software development</u> und <u>Cloud application development</u> beteiligt.",
+      "skills": "Machine Learning, Deep Learning, LLM (GPT, Claude), NLP, Computer Vision, Python, KI-Integrationen, Data Science, Neuronale Netze"
+    },
+    "daniel-foster": {
+      "name": "Daniel Foster",
+      "role": "AI Consultant",
+      "h1": "Daniel Foster — AI Consultant | AI Strategy & AI Transformation",
+      "metaTitle": "AI Consultant Daniel Foster — KI-Strategie, Automatisierung",
+      "metaDescription": "Mieten Sie einen KI-Berater für Integration und Prozessautomatisierung. KI-Strategie, Chatbots, LLM und Effizienz.",
+      "photoAlt": "Daniel Foster — KI-Strategie und Automatisierung",
+      "intro": "Daniel Foster ist ein KI-Berater mit Fokus auf die Integration von künstlicher Intelligenz und die Automatisierung von Geschäftsprozessen.",
+      "experience": "Daniel Foster verfügt über mehr als 10 Jahre Erfahrung. Er managt die <u>Automatisierung von Marketingprozessen</u> und führt <u>Marketing-Audits und Ist-Zustands-Analysen</u> durch. Daniel hilft beim Start der <u>Entwicklung von KI-Assistenten und LLM-basierten Chatbots</u> und der <u>Automatisierung der Lead-Bearbeitung</u>. Er integriert <u>KI-gestützte Funktionen</u>, implementiert <u>automatisiertes Reporting</u>, richtet <u>Telegram-Bots</u> ein und verwaltet die <u>Konfiguration von CRM-Systemen</u>.",
+      "skills": "KI-Strategie, Unternehmenstransformation, Workflow-Automatisierung, LLM-Implementierung, MarTech, CRM-Setup, Datengesteuerte Entscheidungen"
+    }
+  },
+  "serviceDetails": {
+    "marketing-strategy": {
+      "h1": "Entwicklung einer Marketingstrategie | Digital Marketing Strategy",
+      "metaTitle": "Marketingstrategie für Unternehmen | Company X",
+      "metaDescription": "Schlüsselfertige Marketingstrategie: Audit, Analyse, Funnels und Umsatzwachstum. Wir helfen Unternehmen bei der Skalierung und Gewinnsteigerung.",
+      "description": "Die Entwicklung einer Marketingstrategie ist das Fundament für nachhaltiges Wachstum. Der <u>Marketer</u> prägt die Förderlogik. Der <u>Analyst</u> taucht in die Daten ein und führt ein Marketing-Audit durch. Der <u>Copywriter</u> ist für die Botschaften verantwortlich. In Projekten ist ein <u>UX/UI Designer</u> involviert, um die Effizienz zu steigern. Ein <u>KI-Berater</u> hilft bei der Integration von Automatisierungstechnologien.",
+      "includes": "Marketing-Audit und Analyse | Konkurrenzanalyse | Zielgruppensegmentierung | Entwicklung von Marketing-Funnels | USP-Entwicklung | Markenpositionierung | Mediaplanung | Budgetierung",
+      "steps": "Analyse und Ziele: Wir studieren Produkt und Markt | Marketing-Audit: Bestimmung des Ist-Zustands | Konkurrenzanalyse: Wachstumspunkte finden | Zielgruppenforschung: Kunden-Personas formen | Strategieentwicklung: Erstellung der Roadmap | Funnel-Aufbau: Akquisekanäle bestimmen | Umsetzungsplan: Klarer Aktionsplan",
+      "suitableFor": "Startups, SaaS, E-Commerce, B2B",
+      "team": "Marketer, Analyst, Copywriter, UX/UI Designer, KI-Berater",
+      "faqCount": "4",
+      "faq": {
+        "1": { "q": "Was kostet eine Marketingstrategie?", "a": "Die Kosten hängen vom Projektumfang ab." },
+        "2": { "q": "Wie lange dauert die Arbeit?", "a": "Im Durchschnitt 2–6 Wochen." },
+        "3": { "q": "Kann ich nur ein Audit bestellen?", "a": "Ja, das ist eine separate Dienstleistung." },
+        "4": { "q": "Setzen Sie die Strategie um?", "a": "Ja, wir bieten eine schlüsselfertige Umsetzung an." }
+      }
+    },
+    "branding-identity": {
+      "h1": "Branding und Identität | Markenentwicklung",
+      "metaTitle": "Branding und Corporate Identity | Company X",
+      "metaDescription": "Schlüsselfertige Markenentwicklung: Logo, Corporate Identity, Brandbook und Positionierung. Wir kreieren Marken, die verkaufen.",
+      "description": "Branding ist ein ganzheitliches System der Wahrnehmung Ihres Unternehmens. Der <u>Marketer</u> bestimmt die Positionierung. Der <u>Analyst</u> führt eine Wettbewerbsanalyse durch. Eine Schlüsselrolle spielt der <u>UX/UI Designer</u>, der die visuelle Identität entwickelt. Der <u>Copywriter</u> hilft beim Slogan. Bei Bedarf wird ein <u>KI-Berater</u> zur Generierung von Lösungen hinzugezogen.",
+      "includes": "Corporate Identity | Erstellung eines Brandbooks | Rebranding | Naming | Slogan-Entwicklung | Verpackungsdesign | Merch-Design | Art Direction",
+      "steps": "Unternehmensanalyse: Produktstudie | Forschung: Konkurrenzanalyse | Strategie: Markenpositionierung formen | Konzept: Visuelle Ausrichtung erstellen | Design: Corporate Identity entwickeln | Kommunikation: Tone of Voice festlegen | Brandbook: Regeln fixieren",
+      "suitableFor": "Startups, Wachstumsunternehmen, SaaS, E-Commerce",
+      "team": "Marketer, Analyst, UX/UI Designer, Copywriter, KI-Berater",
+      "faqCount": "4",
+      "faq": {
+        "1": { "q": "Was kostet Branding?", "a": "Das hängt vom Umfang und den Aufgaben des Projekts ab." },
+        "2": { "q": "Wie lange dauert die Entwicklung?", "a": "Im Durchschnitt 2–5 Wochen." },
+        "3": { "q": "Kann ich nur ein Logo bestellen?", "a": "Ja, aber ein vollständiges Branding ist effektiver." },
+        "4": { "q": "Erstellen Sie ein Brandbook?", "a": "Ja, das ist ein wichtiger Teil der Dienstleistung." }
+      }
+    },
+    "ux-ui-design": {
+      "h1": "UX/UI Design für digitale Produkte | Interface Design",
+      "metaTitle": "UX/UI Design für Websites und Apps | Company X",
+      "metaDescription": "UX/UI Design für SaaS und Apps: Forschung, Prototypen, Interfaces und Conversion-Wachstum. Wir bauen benutzerfreundliche Produkte.",
+      "description": "UX/UI Design ist ein System, das dem Nutzer hilft, das Produkt schnell zu verstehen. Der <u>UX/UI Designer</u> steht im Zentrum des Prozesses. Ein <u>Analyst</u> unterstützt bei der Forschung. Auf strategischer Ebene ist ein <u>Marketer</u> beteiligt. Bei Bedarf kommen ein <u>Copywriter</u>, <u>Frontend-Entwickler</u> und <u>QA-Ingenieur</u> hinzu.",
+      "includes": "Product discovery | UX-Forschung | User Personas & Journey Mapping | Informationsarchitektur | UX-Wireframes | Klickbare Prototypen | UI-Design (Web/Mobile) | Design systems",
+      "steps": "Eintauchen: Produkt und Ziele studieren | Forschung: UX-Forschung und Verhaltensanalyse | Marktanalyse: Wettbewerbsumfeld prüfen | Konzeption: Architektur und User Flows | Prototyping: Wireframes und Prototypen entwickeln | Visuelles Design: UI-Design erstellen | Übergabe: Designsystem für Entwickler | Validierung: Usability-Optimierung",
+      "suitableFor": "Startups, SaaS-Dienste, E-Commerce, B2B-Unternehmen",
+      "team": "UX/UI Designer, Analyst, Marketer, Copywriter, Frontend-Entwickler, QA-Ingenieur",
+      "faqCount": "5",
+      "faq": {
+        "1": { "q": "Was kostet UX/UI Design?", "a": "Abhängig vom Projektumfang, der Anzahl der Screens und der Forschungstiefe." },
+        "2": { "q": "Kann ich UI ohne UX bestellen?", "a": "Ja, aber UX/UI im Komplex ist konversionsstärker." },
+        "3": { "q": "Designen Sie nur für Websites?", "a": "Nein, wir entwickeln Interfaces für SaaS, Apps und interne Portale." },
+        "4": { "q": "Können Sie ein bestehendes Produkt überarbeiten?", "a": "Ja, wir können Ihr aktuelles Interface neugestalten." },
+        "5": { "q": "Übergeben Sie das Design an Entwickler?", "a": "Ja, wir bereiten Layouts und Spezifikationen vor." }
+      }
+    },
+    "web-development": {
+      "h1": "Webentwicklung und Web-Apps | Web Development",
+      "metaTitle": "Schlüsselfertige Webentwicklung | Company X",
+      "metaDescription": "Website-Erstellung: Frontend, Backend, SEO und Optimierung. Schnelle, benutzerfreundliche und skalierbare Lösungen.",
+      "description": "Webentwicklung ist ein entscheidendes Instrument für das Unternehmenswachstum. Der <u>Frontend-Entwickler</u> ist für die Benutzeroberfläche verantwortlich. Der <u>Backend-Entwickler</u> baut die Serverlogik auf. Für komplexe Plattformen wird ein <u>Fullstack-Entwickler</u> hinzugezogen. Der <u>UX/UI Designer</u> und <u>Marketer</u> sind an der Planung beteiligt. Danach prüft ein <u>QA-Ingenieur</u> das Produkt.",
+      "includes": "Unternehmenswebsites | Landing Pages | E-Commerce-Lösungen | Custom website development | Frontend development | Backend development | SEO-Optimierung | Technischer Support",
+      "steps": "Analyse: Definition der Projektziele | Konzeption: Strukturierung mit dem UX/UI Designer | Architektur: Technische Planung | Frontend: Implementierung der Schnittstelle | Backend: Einrichtung der Serverlogik | Integrationen: API-Dienste verbinden | Testing: QA-Prüfung durchführen | Launch: Website veröffentlichen",
+      "suitableFor": "Startups, SaaS, E-Commerce, B2B, Unternehmen mit veralteten Websites",
+      "team": "Frontend-Entwickler, Backend-Entwickler, UX/UI Designer, QA-Ingenieur, Marketer",
+      "faqCount": "5",
+      "faq": {
+        "1": { "q": "Was kostet die Webentwicklung?", "a": "Die Kosten hängen von Komplexität und Funktionen ab." },
+        "2": { "q": "Wie lange dauert die Entwicklung?", "a": "Von 2–4 Wochen für einfache Projekte bis zu mehreren Monaten." },
+        "3": { "q": "Bieten Sie schlüsselfertige Websites an?", "a": "Ja, einschließlich Design, Entwicklung und Launch." },
+        "4": { "q": "Können Sie eine bestehende Website verbessern?", "a": "Ja, wir können das aktuelle Projekt optimieren." },
+        "5": { "q": "Bieten Sie Support nach dem Start?", "a": "Ja, wir bieten technische Unterstützung und Wartung an." }
+      }
+    },
+    "product-software-dev": {
+      "h1": "Entwicklung digitaler Produkte & SaaS | Software Development",
+      "metaTitle": "Entwicklung digitaler Produkte & SaaS | Company X",
+      "metaDescription": "Schlüsselfertige Produktentwicklung. MVP, SaaS, API, Automatisierung und skalierbare Lösungen für Ihr Unternehmen.",
+      "description": "Die Produktentwicklung reicht von der Hypothese bis zur Skalierung. Ein <u>Analyst</u> und ein <u>Marketer</u> sind von Beginn an dabei. Das technische Kernteam besteht aus <u>Fullstack-Entwicklern</u>, <u>Backend-Entwicklern</u> und <u>Frontend-Entwicklern</u>. Bei Bedarf werden Lösungen von einem <u>AI/ML-Ingenieur</u> implementiert. Ein <u>QA-Ingenieur</u> sorgt für Qualität.",
+      "includes": "Product discovery | MVP development | Custom software development | SaaS product development | Cloud application development | API-Integrationen | Interne Tools",
+      "steps": "Forschung: Markt- und Zielgruppenanalyse | Discovery: Produktkonzept formen | MVP: Minimale Version für Tests erstellen | Architektur: Systemstruktur planen | Entwicklung: Frontend und Backend realisieren | Integrationen: Externe Dienste anbinden | Testing: QA-Kontrolle | Skalierung: Produkt weiterentwickeln",
+      "suitableFor": "Startups, SaaS-Unternehmen, B2B-Dienste, Tech-Unternehmen",
+      "team": "Fullstack-Entwickler, Backend-Entwickler, Frontend-Entwickler, Analyst, Marketer, AI/ML-Ingenieur, QA-Ingenieur",
+      "faqCount": "5",
+      "faq": {
+        "1": { "q": "Was kostet die Produktentwicklung?", "a": "Das hängt von der Komplexität und den Funktionen ab." },
+        "2": { "q": "Was ist ein MVP?", "a": "Eine minimal überlebensfähige Produktversion für schnelle Markttests." },
+        "3": { "q": "Wie lange dauert die Entwicklung?", "a": "Von wenigen Wochen bis zu mehreren Monaten." },
+        "4": { "q": "Können Sie ein bestehendes Produkt verbessern?", "a": "Ja, wir können das System auditieren und skalieren." },
+        "5": { "q": "Helfen Sie nach dem Launch?", "a": "Ja, wir bieten technischen Support und Weiterentwicklung." }
+      }
+    },
+    "mobile-development": {
+      "h1": "Mobile App Entwicklung | iOS & Android",
+      "metaTitle": "Entwicklung mobiler Apps iOS & Android | Company X",
+      "metaDescription": "Schlüsselfertige App-Entwicklung: iOS, Android, PWA, UX/UI, Integrationen und skalierbare Unternehmenslösungen.",
+      "description": "Mobile Entwicklung ist ein wichtiger Kanal für die Kundeninteraktion. Ein <u>Analyst</u> formuliert die Anforderungen. Ein <u>Marketer</u> bestimmt die Akquisitionsstrategie. Der <u>UX/UI Designer</u> sorgt für Benutzerfreundlichkeit. Technisch wird es durch <u>Frontend-</u>, <u>Backend-</u> und <u>Fullstack-Entwickler</u> umgesetzt. Ein <u>AI/ML-Ingenieur</u> kann involviert sein. Ein <u>QA-Ingenieur</u> testet vor dem Start.",
+      "includes": "iOS & Android Entwicklung | Cross-platform app development | Progressive Web Apps (PWA) | Mobile UX/UI | API development | Backend & Frontend | Testing & QA",
+      "steps": "Analyse: Definition von Zielen | Konzeption: Erstellung von Szenarien mit dem UX/UI Designer | Design: Visuelles System entwickeln | Entwicklung: Frontend und Backend implementieren | Integrationen: APIs verbinden | Testing: QA-Prüfung durchführen | Launch: App veröffentlichen",
+      "suitableFor": "Startups, SaaS-Projekte, E-Commerce, Dienstleister, B2B-Plattformen",
+      "team": "UX/UI Designer, Frontend-Entwickler, Backend-Entwickler, Analyst, Marketer, QA-Ingenieur",
+      "faqCount": "5",
+      "faq": {
+        "1": { "q": "Was kostet die App-Entwicklung?", "a": "Hängt von den Funktionen und der Komplexität ab." },
+        "2": { "q": "Nativ oder Cross-Plattform?", "a": "Das hängt von Ihren Geschäftszielen und dem Budget ab." },
+        "3": { "q": "Wie lange dauert es?", "a": "Ab 1–2 Monaten aufwärts." },
+        "4": { "q": "Können Sie eine bestehende App anpassen?", "a": "Ja, wir können sie verbessern und skalieren." },
+        "5": { "q": "Helfen Sie bei der Veröffentlichung?", "a": "Ja, im App Store und bei Google Play." }
+      }
+    },
+    "content-marketing": {
+      "h1": "Content Marketing für Unternehmen | Content-Erstellung",
+      "metaTitle": "Content Marketing für Unternehmen | Company X",
+      "metaDescription": "Schlüsselfertiges Content Marketing: Artikel, SEO-Content, Videos und Strategie. Organischen Traffic anziehen und Umsatz steigern.",
+      "description": "Content-Marketing wirkt langfristig: Es schafft Vertrauen und organischen Traffic. Der <u>Copywriter</u> erstellt die Texte. Auf strategischer Ebene ist ein <u>Marketer</u> eingebunden. Ein <u>Analyst</u> verfolgt die Effektivität. Der <u>UX/UI Designer</u> kümmert sich um visuelle Elemente. Ein <u>KI-Berater</u> kann bei der Automatisierung der Content-Generierung helfen.",
+      "includes": "Copywriting für Websites & Ads | Erstellung von Blogartikeln | SEO-Content | Videoproduktion | Infografiken | E-Books & Guides | Podcasts | Präsentationen",
+      "steps": "Strategie: Ziele definieren | Forschung: Zielgruppe studieren | Inhaltsplan: Themen bilden | Erstellung: Texte und Medien umsetzen | SEO-Optimierung: Für organisches Wachstum | Verbreitung: Veröffentlichung auf Plattformen | Analytik: Ergebnisse auswerten",
+      "suitableFor": "SaaS, E-Commerce, B2B, Experten und Personal Brands",
+      "team": "Copywriter, Marketer, Analyst, UX/UI Designer, KI-Berater",
+      "faqCount": "5",
+      "faq": {
+        "1": { "q": "Was kostet Content Marketing?", "a": "Hängt von Volumen und Formaten ab." },
+        "2": { "q": "Wann sehe ich Ergebnisse?", "a": "SEO-Content zeigt nach 2–4 Monaten Wirkung." },
+        "3": { "q": "Schreiben Sie SEO-Texte?", "a": "Ja, wir erstellen suchmaschinenoptimierten Content." },
+        "4": { "q": "Kann ich nur Artikel bestellen?", "a": "Ja, aber ein umfassender Ansatz ist besser." },
+        "5": { "q": "Machen Sie die Strategie?", "a": "Ja, wir entwickeln eine vollständige Content-Strategie." }
+      }
+    },
+    "smm-social-media": {
+      "h1": "SMM und Social Media Promotion | Social Media Marketing",
+      "metaTitle": "SMM und Social Media Promotion | Company X",
+      "metaDescription": "Schlüsselfertiges SMM: Social Media Management, gezielte Werbung, Content und Kundengewinnung.",
+      "description": "SMM ist auf Ergebnisse ausgerichtet. Der <u>Marketer</u> legt die Strategie fest. Der <u>Copywriter</u> erstellt die Texte. Der <u>UX/UI Designer</u> verbessert die visuelle Darstellung. Ein <u>Analyst</u> optimiert durch Daten. Ein <u>KI-Berater</u> kann Prozesse automatisieren.",
+      "includes": "Social Media Management | Gezielte Werbung (Targeting) | Influencer Marketing | Community Management | Reels, TikTok | Gewinnspiele | Telegram-Marketing",
+      "steps": "Analyse: SMM-Aufgaben definieren | Strategie: Plan erstellen | Inhaltsplan: Themen festlegen | Erstellung: Texte und Videos | Werbung: Targeting einrichten | Engagement: Interaktion mit dem Publikum | Analytik: Auswerten und skalieren",
+      "suitableFor": "E-Commerce, B2C, Lokale Unternehmen, Personal Brands, Startups",
+      "team": "Marketer, Copywriter, UX/UI Designer, Analyst",
+      "faqCount": "5",
+      "faq": {
+        "1": { "q": "Was kostet SMM?", "a": "Hängt vom Arbeitsumfang und den gewählten Kanälen ab." },
+        "2": { "q": "Wann gibt es Ergebnisse?", "a": "Erste Ergebnisse erscheinen innerhalb eines Monats." },
+        "3": { "q": "Schalten Sie Werbung?", "a": "Ja, wir richten gezielte Werbekampagnen ein." },
+        "4": { "q": "Erstellen Sie den Content?", "a": "Ja, wir bieten den vollen Zyklus der Content-Erstellung." },
+        "5": { "q": "Können wir nur Telegram nutzen?", "a": "Ja, wir bieten spezielles Telegram-Marketing an." }
+      }
+    },
+    "context-display-ads": {
+      "h1": "Kontextbezogene & Display-Werbung | PPC & Performance Marketing",
+      "metaTitle": "Kontextbezogene Werbung und PPC | Company X",
+      "metaDescription": "Google Ads, Targeting, Retargeting und Kundenwachstum. Schnelle Ergebnisse und Skalierbarkeit.",
+      "description": "Kontextbezogene Werbung generiert sofortigen Traffic. Der <u>Marketer</u> definiert den Funnel. Der <u>Analyst</u> optimiert das Budget. Der <u>Copywriter</u> und der <u>UX/UI Designer</u> erstellen die Anzeigen. Ein <u>KI-Berater</u> hilft bei der Automatisierung von Bidding-Algorithmen.",
+      "includes": "Google Ads | Social Media Ads | Retargeting & Remarketing | Programmatic Ads | Werbe-Audit | Display- und Bannerwerbung",
+      "steps": "Analyse: Ziele und KPIs festlegen | Strategie: Kampagnenstruktur aufbauen | Vorbereitung: Anzeigen und Visuals erstellen | Launch: Erste Hypothesen testen | Optimierung: A/B-Testing durchführen | Analytik: ROI verfolgen und skalieren",
+      "suitableFor": "E-Commerce, SaaS, B2B-Unternehmen, Startups",
+      "team": "Marketer, Analyst, Copywriter, UX/UI Designer, KI-Berater",
+      "faqCount": "5",
+      "faq": {
+        "1": { "q": "Was kostet die Einrichtung von Werbung?", "a": "Hängt von der Anzahl der Kanäle und der Komplexität ab." },
+        "2": { "q": "Wann sehe ich Ergebnisse?", "a": "Traffic und Leads kommen fast sofort nach dem Start." },
+        "3": { "q": "Arbeiten Sie mit Google Ads?", "a": "Ja, wir richten Such-, Display- und Videoanzeigen ein." },
+        "4": { "q": "Können die Kosten pro Lead gesenkt werden?", "a": "Ja, durch ständige Optimierung und A/B-Testing." },
+        "5": { "q": "Machen Sie Werbe-Audits?", "a": "Ja, wir führen tiefe Audits durch, um Wachstumspunkte zu finden." }
+      }
+    },
+    "seo-promotion": {
+      "h1": "SEO-Promotion | Suchmaschinenoptimierung und Traffic-Wachstum",
+      "metaTitle": "Schlüsselfertige SEO-Promotion | Company X",
+      "metaDescription": "SEO-Promotion: Audit, Semantik, Content und Traffic-Wachstum. Wir bringen Websites an die Spitze von Google und steigern organische Leads.",
+      "description": "SEO ist ein langfristiger Vermögenswert, der die Kundenakquisitionskosten senkt. Im Zentrum steht der <u>Marketer</u>, der die Semantik formt. Der <u>Analyst</u> verfolgt Positionen und Verhalten. Der <u>Copywriter</u> ist für den Inhalt verantwortlich. Technische Anpassungen werden vom <u>Frontend-Entwickler</u> und <u>Backend-Entwickler</u> umgesetzt. Der <u>UX/UI Designer</u> verbessert verhaltensbezogene Faktoren.",
+      "includes": "Technisches SEO | On-Page & Off-Page Optimierung | SEO-Audit | Erstellung des semantischen Kerns | Keyword-Clustering | Interne Verlinkung | Core Web Vitals Optimierung",
+      "steps": "SEO-Audit: Technische Fehler identifizieren | Semantik: Keywords sammeln | Struktur: Keywords für Landingpages clustern | Technik: Code und Geschwindigkeit optimieren | Content: SEO-Texte erstellen | Verlinkung: Interne Verbindungen einrichten | Analytik: Positions-Wachstum verfolgen",
+      "suitableFor": "SaaS, E-Commerce, Content-Projekte, Jedes Unternehmen mit einer Website",
+      "team": "Marketer, Analyst, Copywriter, Frontend-Entwickler, Backend-Entwickler",
+      "faqCount": "5",
+      "faq": {
+        "1": { "q": "Was kostet SEO?", "a": "Der Preis hängt von der Konkurrenz in der Nische und dem Zustand der Website ab." },
+        "2": { "q": "Wann sehe ich Ergebnisse?", "a": "Erste Veränderungen nach 2–3 Monaten, stabiles Wachstum nach 6 Monaten." },
+        "3": { "q": "Garantieren Sie Platz 1?", "a": "Wir garantieren zielgerichtetes Traffic-Wachstum und die Einhaltung der Suchmaschinenrichtlinien." },
+        "4": { "q": "Können Sie eine neue Seite bewerben?", "a": "Ja, das ist die beste Zeit, um die richtige Struktur festzulegen." },
+        "5": { "q": "Bieten Sie nur Audits an?", "a": "Wir bieten sowohl einmalige Audits als auch umfassende Promotion an." }
+      }
+    },
+    "email-marketing": {
+      "h1": "E-Mail-Marketing für Unternehmen | Newsletter-Automatisierung",
+      "metaTitle": "Schlüsselfertiges E-Mail-Marketing | Company X",
+      "metaDescription": "E-Mail-Marketing: Newsletter, Automatisierung, Trigger und Wachstum von Wiederholungskäufen. Steigern Sie den LTV.",
+      "description": "E-Mail-Marketing erhöht Wiederholungskäufe und den LTV. Ein <u>Marketer</u> formt die Funnel-Strategie. Ein <u>Copywriter</u> schreibt die E-Mail-Sequenzen. Ein <u>UX/UI Designer</u> entwickelt Vorlagen. Ein <u>Analyst</u> verfolgt die Conversions. Ein <u>KI-Berater</u> kann personalisierte Empfehlungen implementieren.",
+      "includes": "Erstellung & Einrichtung von Newslettern | Trigger-E-Mail-Sequenzen | Design von E-Mail-Vorlagen | Datenbanksegmentierung | Marketing Automation | Kundenreaktivierung",
+      "steps": "Datenbankanalyse: Zielgruppe bewerten | Strategie: Ziele des E-Mail-Kanals definieren | Segmentierung: Datenbank nach Interessen gruppieren | Erstellung: Texte schreiben und designen | Automatisierung: Trigger einrichten | Launch: Kampagnen testen | Analytik: Open-Rate und CTR optimieren",
+      "suitableFor": "E-Commerce, SaaS, Online-Dienste, Unternehmen mit Kundenstamm",
+      "team": "Marketer, Copywriter, UX/UI Designer, Analyst, KI-Berater",
+      "faqCount": "5",
+      "faq": {
+        "1": { "q": "Was kostet E-Mail-Marketing?", "a": "Die Kosten hängen von der Datenbankgröße und der Komplexität der Sequenzen ab." },
+        "2": { "q": "Wann sehe ich Ergebnisse?", "a": "Verkaufseffekte sind sofort nach Start der ersten Kampagnen sichtbar." },
+        "3": { "q": "Richten Sie Automatisierungen ein?", "a": "Ja, wir erstellen Trigger-Ketten (abgebrochener Warenkorb, Willkommensserie)." },
+        "4": { "q": "Kann ich ohne Datenbank arbeiten?", "a": "Wir helfen bei der Implementierung von Tools zur Datensammlung auf der Website." },
+        "5": { "q": "Designen Sie die E-Mails?", "a": "Ja, wir erstellen responsive Vorlagen im Stil Ihrer Marke." }
+      }
+    },
+    "pr-communications": {
+      "h1": "PR & Kommunikation für Unternehmen | Public Relations & Reputationsmanagement",
+      "metaTitle": "Schlüsselfertige PR & Reputationsmanagement | Company X",
+      "metaDescription": "PR & Kommunikation: Medienarbeit, Reputation, SERM und Strategie. Stärkung der Marke und des Vertrauens in Ihr Unternehmen.",
+      "description": "PR schafft Vertrauen und Markenwahrnehmung. Ein <u>Marketer</u> definiert die Strategie. Ein <u>Copywriter</u> erstellt Inhalte und Pressematerialien. Ein <u>Analyst</u> verfolgt Reichweite und Reaktionen. Ein <u>KI-Berater</u> hilft bei der Echtzeitanalyse von Reputationsrisiken.",
+      "includes": "PR-Strategie | Verfassen & Verbreiten von Pressemitteilungen | Medienbeziehungen | Krisen-PR | Reputationsmanagement (SERM) | Influencer Outreach",
+      "steps": "Situationsanalyse: Aktuelle Reputation bewerten | Strategie: Kommunikationsplan erstellen | Vorbereitung: Artikel und Mitteilungen schreiben | Medienarbeit: Beziehungen zu Journalisten aufbauen | Publikationen: Materialien in den Medien platzieren | Reputation: Bewertungen verwalten | Analytik: PR-Effizienz bewerten",
+      "suitableFor": "Startups, SaaS, B2B-Unternehmen, Personal Brands, Großer Einzelhandel",
+      "team": "Marketer, Copywriter, Analyst, KI-Berater",
+      "faqCount": "5",
+      "faq": {
+        "1": { "q": "Was kostet PR?", "a": "Die Kosten hängen vom Umfang der Aufgaben und der geografischen Medienabdeckung ab." },
+        "2": { "q": "Wann werden Ergebnisse sichtbar?", "a": "Erste Publikationen erscheinen in der Regel nach 1–3 Monaten." },
+        "3": { "q": "Arbeiten Sie mit internationalen Medien?", "a": "Ja, wir helfen Marken, durch Medien in internationale Märkte einzutreten." },
+        "4": { "q": "Können Sie den Ruf bei Suchmaschinen bereinigen?", "a": "Ja, durch SERM-Tools ersetzen wir negative durch positive Inhalte." },
+        "5": { "q": "Bieten Sie einmalige Publikationen an?", "a": "Wir empfehlen systematische Arbeit, aber einmalige Projekte sind möglich." }
+      }
+    },
+    "analytics-reporting": {
+      "h1": "Analytik & Reporting für Unternehmen | Web Analytics & Data Analytics",
+      "metaTitle": "Schlüsselfertige Web Analytics & GA4 | Company X",
+      "metaDescription": "Web Analytics, GA4, Dashboards und Datenanalyse. Treffen Sie datengesteuerte Entscheidungen zur Gewinnsteigerung.",
+      "description": "Analytik ist die Grundlage der Entscheidungsfindung. Ein <u>Analyst</u> richtet die Datenerfassungssysteme ein. Ein <u>Marketer</u> verknüpft Metriken mit der Strategie. Ein <u>UX/UI Designer</u> nutzt Daten zur Verbesserung von Schnittstellen. Ein <u>AI/ML-Ingenieur</u> kann Vorhersagemodelle implementieren.",
+      "includes": "Einrichtung von Google Analytics 4 | Dashboards & automatisiertes Reporting | End-to-End-Analytik | Conversion-Analyse (CRO) | Heatmaps | Audit aktueller Einstellungen",
+      "steps": "Daten-Audit: Aktuelle Einstellungen bewerten | System-Setup: GA4 und Ereignisse konfigurieren | Datenerfassung: Alle Traffic-Quellen verbinden | Visualisierung: Übersichtliche Dashboards erstellen | Analyse: Engpässe im Funnel identifizieren | Optimierung: Wachstumsempfehlungen geben",
+      "suitableFor": "SaaS, E-Commerce, B2B, Jedes Projekt mit Werbebudget",
+      "team": "Analyst, Marketer, UX/UI Designer, AI/ML-Ingenieur",
+      "faqCount": "5",
+      "faq": {
+        "1": { "q": "Was kostet die Einrichtung der Analytik?", "a": "Der Preis hängt von der Struktur der Website und der Anzahl der Ziele ab." },
+        "2": { "q": "Arbeiten Sie mit Google Analytics?", "a": "Ja, wir sind spezialisiert auf die schlüsselfertige GA4-Implementierung." },
+        "3": { "q": "Was ist End-to-End-Analytik?", "a": "Ein System, das den Kunden vom Anzeigenklick bis zum Kauf im CRM verfolgt." },
+        "4": { "q": "Erstellen Sie Echtzeit-Berichte?", "a": "Ja, über Looker Studio erstellen wir interaktive Online-Dashboards." },
+        "5": { "q": "Helfen Sie bei der Interpretation der Zahlen?", "a": "Ja, Dateninterpretation und Schlussfolgerungen sind Teil unserer Arbeit." }
+      }
+    },
+    "automation-martech": {
+      "h1": "Marketing-Automatisierung & MarTech-Lösungen | Marketing Automation",
+      "metaTitle": "Schlüsselfertige Marketing-Automatisierung & CRM | Company X",
+      "metaDescription": "Marketing-Automatisierung, CRM, Chatbots und Integrationen. Beschleunigen Sie Prozesse und steigern Sie die Effizienz.",
+      "description": "Automatisierung ist der Schlüssel zur Skalierung. Ein <u>KI-Berater</u> identifiziert Automatisierungspunkte. Die technische Umsetzung erfolgt durch <u>Backend-Entwickler</u> und <u>Fullstack-Entwickler</u>. Ein <u>Analyst</u> baut die Prozesslogik auf, und ein <u>Marketer</u> integriert diese in den Sales Funnel.",
+      "includes": "CRM-System Setup | API-Integrationen | Automatisierung der Lead-Bearbeitung | LLM-basierte Chatbots | Automatisiertes Reporting | Workflow Automation",
+      "steps": "Prozessanalyse: Manuelle Aufgaben prüfen | Konzeption: Systemstruktur entwerfen | Stack-Auswahl: Passende Tools wählen | Integrationen: CRM, Website und Werbung verknüpfen | Entwicklung: Bots und Skripte erstellen | Testing: Datenstabilität prüfen",
+      "suitableFor": "SaaS, E-Commerce, B2B, Wachsende Startups",
+      "team": "KI-Berater, Backend-Entwickler, Fullstack-Entwickler, Analyst, Marketer",
+      "faqCount": "5",
+      "faq": {
+        "1": { "q": "Was kostet die Automatisierung?", "a": "Das hängt von der Anzahl der Systeme und der Logikkomplexität ab." },
+        "2": { "q": "Richten Sie CRMs ein?", "a": "Ja, wir implementieren und passen beliebte CRM-Systeme an." },
+        "3": { "q": "Bauen Sie Chatbots?", "a": "Ja, wir entwickeln intelligente Bots mit KI-Integration." },
+        "4": { "q": "Können Sie eine Website mit einem CRM verknüpfen?", "a": "Ja, das ist eine Standardaufgabe via API-Integration." },
+        "5": { "q": "Wie lange dauert die Implementierung?", "a": "Von 2 Wochen bis zu mehreren Monaten für komplexe ERP-Lösungen." }
+      }
+    },
+    "ai-agents-automation": {
+      "h1": "KI-Agenten & Automatisierung | KI-Lösungen & Intelligente Systeme",
+      "metaTitle": "Implementierung von KI-Agenten & Automatisierung | Company X",
+      "metaDescription": "KI-Lösungen, Chatbots, Automatisierung und LLM. Implementierung von KI für Geschäftswachstum und Prozesseffizienz.",
+      "description": "KI-Agenten sind intelligente Systeme, die Daten analysieren und Entscheidungen treffen können. Der <u>AI/ML-Ingenieur</u> spielt eine zentrale Rolle beim Modelltraining. Ein <u>KI-Berater</u> definiert die Strategie. Die technische Umsetzung wird von <u>Backend-Entwicklern</u> und <u>Fullstack-Entwicklern</u> unterstützt. Ein <u>Analyst</u> bewertet die Effektivität.",
+      "includes": "Entwicklung von KI-Assistenten | LLM-basierte Chatbots | KI-Content-Generierung | Produkt-KI-Integration | Automatisierung der Lead-Bearbeitung | KI-Telegram-Bots | Intelligente Analytik",
+      "steps": "Aufgabenanalyse: Bereiche für KI identifizieren | Strategie: Implementierungsplan erstellen | Entwicklung: KI-Modelle und Logik bauen | Integrationen: KI mit Ihren Systemen verbinden | Testing: Antwortgenauigkeit überprüfen | Launch: In Workflows implementieren | Optimierung: Datenbasierte Verbesserungen",
+      "suitableFor": "SaaS-Unternehmen, E-Commerce, B2B, Tech-Startups",
+      "team": "AI/ML-Ingenieur, KI-Berater, Backend-Entwickler, Fullstack-Entwickler, Analyst",
+      "faqCount": "5",
+      "faq": {
+        "1": { "q": "Was kostet die KI-Implementierung?", "a": "Es hängt von der Modellkomplexität und dem Datenvolumen ab." },
+        "2": { "q": "Kann man KI in ein bestehendes Unternehmen integrieren?", "a": "Ja, wir integrieren KI via API in CRMs, Websites und ERPs." },
+        "3": { "q": "Bauen Sie GPT-basierte Chatbots?", "a": "Ja, wir entwickeln Assistenten mit modernen Modellen (GPT-4, Claude, Llama)." },
+        "4": { "q": "Brauchen wir 'Big Data'?", "a": "Nicht immer. Viele Aufgaben lassen sich mit Ihren aktuellen Prozessen lösen." },
+        "5": { "q": "Kann KI den Vertrieb automatisieren?", "a": "Ja, KI-Agenten können Leads qualifizieren und erste Kundenanfragen beantworten." }
+      }
+    },
+    "lead-generation-b2b": {
+      "h1": "Lead-Generierung & B2B-Marketing | Kundengewinnung",
+      "metaTitle": "Schlüsselfertige B2B Lead-Generierung | Company X",
+      "metaDescription": "Lead-Generierung: LinkedIn, Cold E-Mail, CRM und Automatisierung. B2B-Kunden gewinnen und Sales Funnels aufbauen.",
+      "description": "Die B2B Lead-Generierung ist ein systematischer Prozess, der Kontakte in Deals verwandelt. Der <u>Marketer</u> baut Funnels auf. Ein <u>Analyst</u> optimiert jede Phase. Ein <u>Copywriter</u> erstellt Angebote. Der <u>UX/UI Designer</u> verbessert die visuelle Darstellung. Ein <u>KI-Berater</u> implementiert Tools für automatisierte Akquise.",
+      "includes": "LinkedIn Lead-Generierung | Cold E-Mail-Kampagnen | CRM Setup & Management | ABM Marketing | Lead Processing Automatisierung | Angebotserstellung | End-to-End Sales Funnel",
+      "steps": "Zielgruppenanalyse: Entscheidungsträger und Unternehmen definieren | Strategie: Kanäle auswählen | Funnel: Pfad vom Klick zum Deal erstellen | Launch: LinkedIn und E-Mail-Kampagnen aktivieren | Kommunikation: Personalisierte Angebote senden | Automatisierung: CRM-Prozesse einrichten | Analytik: Kosten pro Lead optimieren",
+      "suitableFor": "B2B-Unternehmen, IT-Agenturen, Consulting, High-Ticket-Projekte",
+      "team": "Marketer, Analyst, Copywriter, UX/UI Designer, KI-Berater",
+      "faqCount": "5",
+      "faq": {
+        "1": { "q": "Wie schnell bekomme ich erste Leads?", "a": "Im B2B-Segment kommen erste Anfragen meist innerhalb von 1–2 Wochen." },
+        "2": { "q": "Arbeiten Sie mit LinkedIn?", "a": "Ja, das ist unser Hauptwerkzeug, um Entscheidungsträger direkt zu erreichen." },
+        "3": { "q": "Kann Kaltakquise automatisiert werden?", "a": "Ja, wir nutzen moderne Tools für sichere Automatisierung ohne Spam." },
+        "4": { "q": "Richten Sie CRMs ein?", "a": "Ja, wir erfassen alle eingehenden Leads in Ihrem CRM-System." },
+        "5": { "q": "Was kostet ein Lead?", "a": "Die Kosten hängen von der Nische, der Geografie und der Komplexität ab." }
+      }
+    },
+    "testing-qa-devops": {
+      "h1": "Testing, QA, DevOps & Support | Zuverlässigkeit digitaler Produkte",
+      "metaTitle": "Schlüsselfertige QA, DevOps & Support | Company X",
+      "metaDescription": "Testing, QA, DevOps und Support: Stabilität, Sicherheit und Skalierbarkeit für Ihre Dienste und Apps.",
+      "description": "Unterbrechungsfreier Betrieb ist die Grundlage für Kundenvertrauen. Der <u>QA-Ingenieur</u> spielt eine wichtige Rolle bei der Fehlervermeidung. <u>DevOps-Ingenieure</u> sorgen für technische Stabilität durch CI/CD. <u>Backend-Entwickler</u> unterstützen die Serverseite. <u>Fullstack-Entwickler</u> kommen bei Bedarf hinzu. Ein <u>Analyst</u> überwacht Uptime- und Lastmetriken.",
+      "includes": "Qualitätssicherung (QA) | Testautomatisierung | DevOps & Cloud-Infrastruktur | Monitoring & Logging | Bug Fixing | 24/7 Technischer Support | Datensicherheit",
+      "steps": "Systemanalyse: Aktuelle Architektur bewerten | Prozess-Setup: QA- und DevOps-Regeln etablieren | Testing: Prüfungen auf allen Geräten durchführen | Automatisierung: CI/CD-Pipelines implementieren | Monitoring: Fehler-Tracking einrichten | Support: Stabilen Betrieb nach dem Release sicherstellen",
+      "suitableFor": "SaaS-Plattformen, Komplexe Webdienste, Mobile Apps, High-Load-Projekte",
+      "team": "QA-Ingenieur, DevOps-Ingenieur, Backend-Entwickler, Fullstack-Entwickler, Analyst",
+      "faqCount": "5",
+      "faq": {
+        "1": { "q": "Warum QA, wenn der Code gut ist?", "a": "QA prüft das Systemverhalten in Sonderfällen und auf verschiedenen Geräten." },
+        "2": { "q": "Was bringt die DevOps-Implementierung?", "a": "Schnellere Releases, automatische Bereitstellung und keine Serverausfälle." },
+        "3": { "q": "Richten Sie CI/CD ein?", "a": "Ja, das ist unser Standard zur Gewährleistung der Update-Qualität." },
+        "4": { "q": "Bieten Sie Support nach dem Launch?", "a": "Ja, wir bieten 24/7 technische Support-Pakete an." },
+        "5": { "q": "Wie gehen Sie mit Sicherheit um?", "a": "Wir implementieren DevSecOps-Praktiken und führen regelmäßige Schwachstellen-Audits durch." }
+      } 
+    }
+  }
 }

@@ -17,48 +17,19 @@
     "title": "Comprehensive promotion of your business from",
     "videoAria": "Promo animation with sound"
   },
-  "workers": {
+"workers": {
     "nextSlide": "Next slide",
     "prevSlide": "Previous slide",
     "openProfile": "Open profile",
     "showMore": "Show more",
     "title": "Specialists",
     "items": {
-      "anastasia": {
-        "name": "Anastasia Yakovleva",
-        "role": "Designer",
-        "experience": "3 years of experience"
-      },
-      "alexey": {
-        "name": "Alexey Petrov",
-        "role": "Targeting specialist",
-        "experience": "5 years of experience"
-      },
-      "maria": {
-        "name": "Maria Sokolova",
-        "role": "SMM specialist",
-        "experience": "4 years of experience"
-      },
-      "arina": {
-        "name": "Arina Kuznetsova",
-        "role": "SEO specialist",
-        "experience": "7 years of experience"
-      },
-      "vyacheslav": {
-        "name": "Vyacheslav Makushev",
-        "role": "Targeting specialist",
-        "experience": "4 years of experience"
-      },
-      "ivan": {
-        "name": "Ivan Tikhonov",
-        "role": "Manager",
-        "experience": "6 years of experience"
-      },
-      "elizaveta": {
-        "name": "Elizaveta Orlova",
-        "role": "Content manager",
-        "experience": "5 years of experience"
-      }
+      "leo-carter": { "name": "Leo Carter", "role": "Product Manager", "experience": "8 years exp." },
+      "alex-morgan": { "name": "Alex Morgan", "role": "Digital Marketing", "experience": "9 years exp." },
+      "emma-collins": { "name": "Emma Collins", "role": "UX/UI Designer", "experience": "8 years exp." },
+      "daniel-reed": { "name": "Daniel Reed", "role": "Data Analyst", "experience": "8 years exp." },
+      "sophia-bennett": { "name": "Sophia Bennett", "role": "Copywriter", "experience": "7 years exp." },
+      "ethan-brooks": { "name": "Ethan Brooks", "role": "Frontend Developer", "experience": "8 years exp." }
     }
   },
   "servicesSection": {
@@ -67,43 +38,33 @@
       "popular": {
         "title": "Most frequent orders",
         "items": {
-          "targetedMetaVkTiktok": "Targeted ads for Meta, VK, TikTok",
-          "contextGoogleYandex": "Context ads in Google Ads / Yandex Direct",
-          "seoPromotion": "Website SEO promotion",
-          "corporateWebsite": "Corporate website development",
-          "smmManagement": "SMM social media management",
-          "adCreatives": "Advertising creatives production",
-          "copywriting": "Copywriting (texts for website and ads)",
-          "analyticsSetup": "Analytics setup (Google Analytics, Yandex Metrica)",
-          "emailMarketing": "Email marketing (campaign setup)"
+          "web-development": "Website & Web App Development",
+          "mobile-development": "Mobile App Development",
+          "smm-social-media": "SMM & Social Media Promotion",
+          "context-display-ads": "Contextual & Display Ads",
+          "seo-promotion": "SEO Promotion",
+          "ux-ui-design": "UX/UI Design"
         }
       },
       "middle": {
         "title": "Medium order frequency",
         "items": {
-          "websiteRedesign": "Website redesign",
-          "uxUiDesign": "UX/UI design",
-          "abTesting": "A/B testing for ads and landing pages",
-          "marketplacePromotion": "Marketplace promotion",
-          "onlineStoreCreation": "Online store development",
-          "influencerAds": "Influencer marketing (blogger selection)",
-          "videoProduction": "Video ads / video production",
-          "crmAutomation": "CRM and automation setup",
-          "localSeo": "Local SEO (maps, Google Business Profile)"
+          "marketing-strategy": "Marketing Strategy Development",
+          "branding-identity": "Branding & Identity",
+          "content-marketing": "Content Marketing",
+          "lead-generation-b2b": "B2B Lead Generation",
+          "email-marketing": "Email Marketing",
+          "analytics-reporting": "Web Analytics & Reporting"
         }
       },
       "rare": {
         "title": "Less frequent but regular orders",
         "items": {
-          "logoDesign": "Logo design",
-          "brandIdentity": "Brand identity design",
-          "prPublications": "PR publications in media",
-          "brandbook": "Brandbook",
-          "marketingResearch": "Marketing research",
-          "businessPhotography": "Business photography",
-          "presentationDesign": "Presentation design",
-          "chatbots": "Chatbots for website / messengers",
-          "quizLandingPages": "Quiz landing page development"
+          "product-software-dev": "SaaS & Software Development",
+          "pr-communications": "PR & Reputation Management",
+          "automation-martech": "CRM & Marketing Automation",
+          "ai-agents-automation": "AI Agents Implementation",
+          "testing-qa-devops": "QA Testing & DevOps"
         }
       }
     }
@@ -615,6 +576,223 @@
         "4": { "q": "Can you improve an existing product?", "a": "Yes, we can conduct an audit and scale the system." },
         "5": { "q": "Do you provide support after launch?", "a": "Yes, we ensure technical support and further development." }
       }
+    },
+    "mobile-development": {
+      "h1": "Mobile App Development | Mobile Development for iOS & Android",
+      "metaTitle": "Mobile App Development iOS & Android | Company X",
+      "metaDescription": "Turnkey mobile development: iOS, Android, PWA, UX/UI, integrations, and scalable business solutions.",
+      "description": "Mobile development is a key channel for customer interaction. An <u>analyst</u> joins to form requirements. A <u>marketer</u> determines the acquisition strategy. The <u>UX/UI designer</u> ensures interface usability. Technically, it's executed by a <u>Frontend developer</u>, <u>Backend developer</u>, and <u>Fullstack developer</u>. An <u>AI/ML engineer</u> can be involved. A <u>QA engineer</u> tests before launch.",
+      "includes": "iOS & Android development | Cross-platform app development | Progressive Web Apps (PWA) | Mobile UX/UI | API development & integrations | Backend development | Frontend development | Testing & QA",
+      "steps": "Analysis & Strategy: Defining goals | Engineering: Creating scenarios with the UX/UI designer | Design: Developing the visual system | Development: Implementing frontend and backend | Integrations: Connecting APIs | Testing: Conducting QA checks | Launch: Publishing the app",
+      "suitableFor": "Startups, SaaS projects, E-commerce, Service businesses, B2B platforms",
+      "team": "UX/UI Designer, Frontend Developer, Backend Developer, Analyst, Marketer, QA Engineer",
+      "faqCount": "5",
+      "faq": {
+        "1": { "q": "How much does app development cost?", "a": "It depends on complexity and features." },
+        "2": { "q": "Native or cross-platform?", "a": "It depends on business goals and budget." },
+        "3": { "q": "How long does development take?", "a": "From 1–2 months and up." },
+        "4": { "q": "Can you improve an existing app?", "a": "Yes, we can enhance and scale it." },
+        "5": { "q": "Do you help with publishing?", "a": "Yes, we publish in the App Store and Google Play." }
+      }
+    },
+    "content-marketing": {
+      "h1": "Content Marketing for Business | Content Creation",
+      "metaTitle": "Content Marketing for Business | Company X",
+      "metaDescription": "Turnkey content marketing: articles, SEO content, videos, texts, and strategy. Attract traffic and increase sales.",
+      "description": "Content marketing plays the long game: it builds trust and organic traffic. The <u>copywriter</u> creates texts. A <u>marketer</u> operates strategically. An <u>analyst</u> tracks performance. A <u>UX/UI designer</u> handles visuals. An <u>AI/ML engineer</u> or <u>AI consultant</u> may assist with content generation.",
+      "includes": "Copywriting for sites & ads | Blog article creation | SEO content | Video production | Infographics | E-books & guides | Podcasts | Pitch decks",
+      "steps": "Analysis & Strategy: Defining goals | Research: Studying the audience | Content Plan: Forming topics | Creation: Producing texts and media | SEO Optimization: Growing organic traffic | Distribution: Publishing on platforms | Analytics: Evaluating results",
+      "suitableFor": "SaaS, E-commerce, B2B, Experts & Personal Brands",
+      "team": "Copywriter, Marketer, Analyst, UX/UI Designer, AI Consultant",
+      "faqCount": "5",
+      "faq": {
+        "1": { "q": "How much does content marketing cost?", "a": "Depends on the volume and formats." },
+        "2": { "q": "When will I see results?", "a": "SEO content shows effects in 2–4 months." },
+        "3": { "q": "Do you write SEO texts?", "a": "Yes, we create optimized SEO content." },
+        "4": { "q": "Can I order just articles?", "a": "Yes, but a comprehensive approach is better." },
+        "5": { "q": "Do you make strategies?", "a": "Yes, we develop full content strategies." }
+      }
+    },
+    "smm-social-media": {
+      "h1": "SMM & Social Media Promotion | Social Media Marketing",
+      "metaTitle": "SMM & Social Media Promotion | Company X",
+      "metaDescription": "Turnkey SMM: social media management, targeted ads, content, and client growth from social media.",
+      "description": "SMM is built for results. A <u>marketer</u> determines the strategy. The <u>copywriter</u> creates texts. The <u>UX/UI designer</u> enhances visuals. An <u>analyst</u> optimizes via data. An <u>AI consultant</u> can help automate processes.",
+      "includes": "Social media management | Targeted advertising | Influencer marketing | Community management | Reels, TikTok, Shorts | Contests | Telegram marketing",
+      "steps": "Business Analysis: Defining SMM tasks | Strategy: Forming a plan | Content Plan: Creating topics | Content Creation: Texts and videos | Ad Launch: Setting up targeting | Engagement: Working with the audience | Analytics: Evaluating and scaling",
+      "suitableFor": "E-commerce, B2C, Local companies, Personal brands, Startups",
+      "team": "Marketer, Copywriter, UX/UI Designer, Analyst",
+      "faqCount": "5",
+      "faq": {
+        "1": { "q": "How much does SMM cost?", "a": "Depends on the scope and chosen channels." },
+        "2": { "q": "When will I see results?", "a": "First results appear within 1 month." },
+        "3": { "q": "Do you run ads?", "a": "Yes, we set up targeted advertising." },
+        "4": { "q": "Do you create content?", "a": "Yes, we provide a full cycle of content creation." },
+        "5": { "q": "Can we work only with Telegram?", "a": "Yes, we offer Telegram marketing." }
+      }
+    },
+    "context-display-ads": {
+      "h1": "Contextual & Display Advertising | PPC & Performance Marketing",
+      "metaTitle": "Turnkey Contextual Advertising & PPC | Company X",
+      "metaDescription": "Contextual & Media ads: Google Ads, targeting, retargeting, and client growth. Fast results and scalability.",
+      "description": "Contextual advertising allows you to receive traffic and leads immediately after launch. A <u>marketer</u> defines the strategy and funnel. An <u>analyst</u> optimizes the budget. A <u>copywriter</u> and <u>UX/UI designer</u> create the assets. <u>AI consultants</u> help automate bidding algorithms.",
+      "includes": "Google Ads | Social Media Ads | Retargeting & Remarketing | Programmatic Ads | Ad Campaign Audit | Display & Banner Ads",
+      "steps": "Business Analysis: Defining goals and KPIs | Strategy: Forming campaign structures | Preparation: Creating ads and visuals | Launch: Testing first hypotheses | Optimization: Improving via A/B testing | Analytics: Tracking ROI and scaling",
+      "suitableFor": "E-commerce, SaaS, B2B companies, Startups, Local business",
+      "team": "Marketer, Analyst, Copywriter, UX/UI Designer, AI Consultant",
+      "faqCount": "5",
+      "faq": {
+        "1": { "q": "How much does ad setup cost?", "a": "Costs depend on the number of channels and funnel complexity." },
+        "2": { "q": "When will I see results?", "a": "Traffic and leads start arriving almost immediately after launch." },
+        "3": { "q": "Do you work with Google Ads?", "a": "Yes, we set up Search, Display, and Video ads in Google." },
+        "4": { "q": "Can we reduce cost per lead?", "a": "Yes, through constant optimization and A/B testing." },
+        "5": { "q": "Do you perform ad audits?", "a": "Yes, we conduct deep audits to find growth points." }
+      }
+    },
+    "seo-promotion": {
+      "h1": "SEO Promotion | Search Engine Optimization & Traffic Growth",
+      "metaTitle": "Turnkey SEO Promotion | Company X",
+      "metaDescription": "SEO promotion: audit, semantics, content, and traffic growth. We rank sites in Google Top and increase organic leads.",
+      "description": "SEO is a long-term asset that reduces customer acquisition costs. A <u>marketer</u> forms the semantics. An <u>analyst</u> tracks rankings and behavior. A <u>copywriter</u> handles content. <u>Frontend</u> and <u>Backend developers</u> implement technical fixes. The <u>UX/UI designer</u> improves user signals.",
+      "includes": "Technical SEO | On-page & Off-page Optimization | SEO Audit | Semantic Core Collection | Keyword Clustering | Internal Linking | Core Web Vitals Optimization",
+      "steps": "SEO Audit: Identifying technical issues | Semantics: Collecting keywords | Structure: Clustering keywords for landing pages | Technical: Optimizing code and speed | Content: Creating SEO texts | Linking: Setting up internal connections | Analytics: Tracking ranking growth",
+      "suitableFor": "SaaS, E-commerce, Content projects, Any business with a website",
+      "team": "Marketer, Analyst, Copywriter, Frontend Developer, Backend Developer",
+      "faqCount": "5",
+      "faq": {
+        "1": { "q": "How much does SEO cost?", "a": "The price depends on niche competition and site condition." },
+        "2": { "q": "When will I see results?", "a": "Initial changes in 2–3 months, stable growth after 6 months." },
+        "3": { "q": "Do you guarantee Top 1?", "a": "We guarantee targeted traffic growth and adherence to search engine guidelines." },
+        "4": { "q": "Can you promote a new site?", "a": "Yes, it's the best time to establish the correct structure." },
+        "5": { "q": "Do you provide only audits?", "a": "We offer both one-time audits and comprehensive promotion." }
+      }
+    },
+    "email-marketing": {
+      "h1": "Email Marketing for Business | Newsletter Automation",
+      "metaTitle": "Turnkey Email Marketing | Company X",
+      "metaDescription": "Email marketing: newsletters, automation, triggers, and repeat sales growth. Increase LTV and retention.",
+      "description": "Email marketing increases repeat sales and LTV. A <u>marketer</u> shapes the funnel strategy. A <u>copywriter</u> writes email sequences. A <u>UX/UI designer</u> develops templates. An <u>analyst</u> tracks conversions. <u>AI consultants</u> can implement personalized recommendations.",
+      "includes": "Newsletter creation & setup | Triggered email sequences | Email template design | Database segmentation | Marketing automation | Customer reactivation",
+      "steps": "Database Analysis: Evaluating the audience | Strategy: Defining email channel goals | Segmentation: Grouping the database by interests | Creation: Writing copy and designing | Automation: Setting up triggers | Launch: Testing campaigns | Analytics: Optimizing open and click rates",
+      "suitableFor": "E-commerce, SaaS, Online services, Businesses with a customer base",
+      "team": "Marketer, Copywriter, UX/UI Designer, Analyst, AI Consultant",
+      "faqCount": "5",
+      "faq": {
+        "1": { "q": "How much does email marketing cost?", "a": "Cost depends on database size and sequence complexity." },
+        "2": { "q": "When will I see results?", "a": "Sales results are visible immediately after launching campaigns." },
+        "3": { "q": "Do you set up automation?", "a": "Yes, we create triggered flows (abandoned cart, welcome series)." },
+        "4": { "q": "Can I work without a database?", "a": "We help implement tools to collect subscribers on your site." },
+        "5": { "q": "Do you design emails?", "a": "Yes, we create responsive templates in your brand style." }
+      }
+    },
+    "pr-communications": {
+      "h1": "PR & Communications for Business | Public Relations & Reputation Management",
+      "metaTitle": "Turnkey PR & Reputation Management | Company X",
+      "metaDescription": "PR & Communications: media relations, reputation, SERM, and strategy. Strengthening the brand and trust in your business.",
+      "description": "PR builds trust and brand perception. A <u>marketer</u> defines the strategy. A <u>copywriter</u> joins for content creation and media materials. An <u>analyst</u> tracks reach and audience reaction. If needed, an <u>AI consultant</u> analyzes reputation risks in real-time.",
+      "includes": "PR Strategy | Press Release Writing & Distribution | Media Relations | Crisis PR | Search Engine Reputation Management (SERM) | Influencer Outreach",
+      "steps": "Situation Analysis: Evaluating current reputation | Strategy Development: Creating a communication plan | Content Preparation: Writing articles and releases | Media Relations: Building relationships with journalists | Publications: Placing materials in the media | Reputation Management: Managing reviews | Analytics: Evaluating PR effectiveness",
+      "suitableFor": "Startups, SaaS, B2B businesses, Personal brands, Large retail",
+      "team": "Marketer, Copywriter, Analyst, AI Consultant",
+      "faqCount": "5",
+      "faq": {
+        "1": { "q": "How much does PR cost?", "a": "The cost depends on the scope of tasks and media coverage geography." },
+        "2": { "q": "When will I see results?", "a": "First publications usually appear within 1–3 months of work." },
+        "3": { "q": "Do you work with international media?", "a": "Yes, we help brands enter international markets through media." },
+        "4": { "q": "Can you clean up search engine reputation?", "a": "Yes, through SERM we replace negative content with positive content." },
+        "5": { "q": "Do you offer one-time publications?", "a": "We recommend systemic work, but one-time projects for specific events are possible." }
+      }
+    },
+    "analytics-reporting": {
+      "h1": "Analytics & Reporting for Business | Web Analytics & Data Analytics",
+      "metaTitle": "Turnkey Web Analytics & GA4 Setup | Company X",
+      "metaDescription": "Web analytics, GA4, dashboards, and data analysis. Helping you make data-driven decisions to increase profit.",
+      "description": "Analytics is the foundation of decision-making. An <u>analyst</u> sets up data collection systems. A <u>marketer</u> links metrics to strategy. A <u>UX/UI designer</u> uses data to improve interfaces. If needed, an <u>AI/ML engineer</u> implements predictive models.",
+      "includes": "Google Analytics 4 Setup | Dashboards & Automated Reporting | End-to-end Analytics | Conversion Rate Optimization (CRO) | Heatmaps | Audit of current settings",
+      "steps": "Data Audit: Evaluating current settings | System Setup: Configuring GA4 and events | Data Collection: Connecting all traffic sources | Visualization: Creating clear dashboards | Analysis: Identifying funnel bottlenecks | Optimization: Providing growth recommendations",
+      "suitableFor": "SaaS, E-commerce, B2B, Any project with an ad budget",
+      "team": "Analyst, Marketer, UX/UI Designer, AI/ML Engineer",
+      "faqCount": "5",
+      "faq": {
+        "1": { "q": "How much does analytics setup cost?", "a": "The price depends on the site structure and number of goals." },
+        "2": { "q": "Do you work with Google Analytics?", "a": "Yes, we specialize in turnkey GA4 implementation." },
+        "3": { "q": "What is end-to-end analytics?", "a": "A system that tracks the customer journey from the first click to the CRM sale." },
+        "4": { "q": "Do you provide real-time reports?", "a": "Yes, we create interactive online dashboards via Looker Studio." },
+        "5": { "q": "Do you help interpret the numbers?", "a": "Yes, data interpretation and drawing conclusions are part of our work." }
+      }
+    },
+    "automation-martech": {
+      "h1": "Marketing Automation & MarTech Solutions | Marketing Automation",
+      "metaTitle": "Turnkey Marketing Automation & CRM | Company X",
+      "metaDescription": "Marketing automation, CRM, chatbots, and integrations. Speeding up processes and increasing business efficiency.",
+      "description": "Automation is the key to scaling. An <u>AI consultant</u> identifies automation points. Technical implementation is handled by <u>Backend</u> and <u>Fullstack developers</u>. An <u>analyst</u> builds the process logic, while a <u>marketer</u> integrates it into the sales funnel.",
+      "includes": "CRM System Setup | API Integrations | Lead Processing Automation | LLM-based Chatbots | Automated Reporting | Workflow Automation",
+      "steps": "Process Analysis: Studying manual tasks | Engineering: Designing the system structure | Stack Selection: Choosing the right tools | Integrations: Unifying CRM, website, and ads | Development: Creating bots and scripts | Testing: Ensuring data stability",
+      "suitableFor": "SaaS, E-commerce, B2B companies, Growing startups",
+      "team": "AI Consultant, Backend Developer, Fullstack Developer, Analyst, Marketer",
+      "faqCount": "5",
+      "faq": {
+        "1": { "q": "How much does automation cost?", "a": "It depends on the number of systems and logic complexity." },
+        "2": { "q": "Do you set up CRMs?", "a": "Yes, we implement and customize popular CRM systems." },
+        "3": { "q": "Do you build chatbots?", "a": "Yes, we develop intelligent bots with AI integration." },
+        "4": { "q": "Can you link a website to a CRM?", "a": "Yes, that is a standard task performed via API integration." },
+        "5": { "q": "How long does implementation take?", "a": "From 2 weeks to several months for complex ERP solutions." }
+      }
+    },
+    "ai-agents-automation": {
+      "h1": "AI Agents & Automation | AI Solutions & Intelligent Systems",
+      "metaTitle": "AI Agents & Business Automation Implementation | Company X",
+      "metaDescription": "AI solutions, chatbots, automation, and LLM. Implementing AI to grow business and increase process efficiency.",
+      "description": "AI agents are intelligent systems capable of analyzing data and making decisions. The <u>AI/ML engineer</u> plays a central role in model training. An <u>AI consultant</u> helps define the strategy. Technical implementation is supported by <u>Backend</u> and <u>Fullstack developers</u>. An <u>analyst</u> joins to evaluate effectiveness.",
+      "includes": "AI Assistant Development | LLM-based Chatbots | AI Content Generation | Product AI Integration | Lead Processing Automation | AI Telegram Bots | Intelligent Analytics",
+      "steps": "Task Analysis: Identifying where AI adds value | Strategy: Forming an implementation plan | Development: Creating AI models and logic | Integrations: Connecting AI to your systems | Testing: Verifying response accuracy | Launch: Implementing into workflows | Optimization: Improving based on data",
+      "suitableFor": "SaaS companies, E-commerce, B2B business, Tech startups",
+      "team": "AI/ML Engineer, AI Consultant, Backend Developer, Fullstack Developer, Analyst",
+      "faqCount": "5",
+      "faq": {
+        "1": { "q": "How much does AI implementation cost?", "a": "It depends on model complexity and data volume." },
+        "2": { "q": "Can I add AI to an existing business?", "a": "Yes, we integrate AI into CRMs, websites, and ERPs via API." },
+        "3": { "q": "Do you build GPT-based chatbots?", "a": "Yes, we develop assistants using modern models (GPT-4, Claude, Llama)." },
+        "4": { "q": "Do we need 'Big Data'?", "a": "Not always. Many tasks are solved using your current business processes." },
+        "5": { "q": "Can AI automate sales?", "a": "Yes, AI agents can qualify leads and handle primary customer inquiries." }
+      }
+    },
+    "lead-generation-b2b": {
+      "h1": "Lead Generation & B2B Marketing | Customer Acquisition",
+      "metaTitle": "Turnkey B2B Lead Generation | Company X",
+      "metaDescription": "Lead generation: LinkedIn, cold email, CRM, and automation. Attracting B2B clients and building sales funnels.",
+      "description": "B2B lead generation is a systematic process of turning contacts into deals. The <u>marketer</u> is at the center, building funnels. An <u>analyst</u> optimizes each stage of the journey. A <u>copywriter</u> is involved in creating offers. The <u>UX/UI designer</u> enhances visuals. If needed, an <u>AI consultant</u> implements tools for automated prospecting.",
+      "includes": "LinkedIn Lead Generation | Cold Email Campaigns | CRM Setup & Management | ABM Marketing | Lead Processing Automation | Offer Preparation | End-to-end Sales Funnel",
+      "steps": "Audience Analysis: Defining companies and DMs | Strategy: Choosing outreach channels | Funnel: Creating the path from click to deal | Launch: Activating LinkedIn and email campaigns | Communication: Sending personalized offers | Automation: Setting up CRM processes | Analytics: Optimizing cost per lead",
+      "suitableFor": "B2B companies, IT agencies, Consulting, High-ticket projects",
+      "team": "Marketer, Analyst, Copywriter, UX/UI Designer, AI Consultant",
+      "faqCount": "5",
+      "faq": {
+        "1": { "q": "How soon will I get first leads?", "a": "In the B2B segment, first inquiries usually arrive within 1–2 weeks." },
+        "2": { "q": "Do you work with LinkedIn?", "a": "Yes, it is our main tool for reaching Decision Makers directly." },
+        "3": { "q": "Can cold outreach be automated?", "a": "Yes, we use modern tools for safe automation without spamming." },
+        "4": { "q": "Do you set up CRMs?", "a": "Yes, we track all incoming leads in your CRM system." },
+        "5": { "q": "How much does one lead cost?", "a": "Cost depends on the niche, geography, and outreach complexity." }
+      }
+    },
+    "testing-qa-devops": {
+      "h1": "Testing, QA, DevOps & Support | Digital Product Reliability",
+      "metaTitle": "Turnkey QA, DevOps & Technical Support | Company X",
+      "metaDescription": "Testing, QA, DevOps, and support: stability, security, and scalability for your services and apps.",
+      "description": "Uninterrupted operation is the foundation of customer trust. The <u>QA engineer</u> plays a vital role in preventing errors. <u>DevOps engineers</u> ensure technical stability via CI/CD. <u>Backend developers</u> support the server side. <u>Fullstack developers</u> join if needed. An <u>analyst</u> monitors uptime and load metrics.",
+      "includes": "Quality Assurance (QA) | Test Automation | DevOps & Cloud Infrastructure | Monitoring & Logging | Bug Fixing | 24/7 Technical Support | Data Security",
+      "steps": "System Analysis: Evaluating current architecture | Process Setup: Establishing QA and DevOps rules | Testing: Performing checks across all devices | Automation: Implementing CI/CD pipelines | Monitoring: Setting up error tracking | Support: Ensuring stable operations after release",
+      "suitableFor": "SaaS platforms, Complex web services, Mobile apps, High-load projects",
+      "team": "QA Engineer, DevOps Engineer, Backend Developer, Fullstack Developer, Analyst",
+      "faqCount": "5",
+      "faq": {
+        "1": { "q": "Why need QA if the code is good?", "a": "QA checks system behavior in edge cases and on various devices." },
+        "2": { "q": "What does DevOps implementation provide?", "a": "Faster releases, automatic deployment, and zero server downtime." },
+        "3": { "q": "Do you set up CI/CD?", "a": "Yes, it is our standard for ensuring update quality." },
+        "4": { "q": "Do you provide post-launch support?", "a": "Yes, we offer 24/7 technical support packages." },
+        "5": { "q": "How do you handle security?", "a": "We implement DevSecOps practices and conduct regular vulnerability audits." }
+      }
     }
+    
   }
 }

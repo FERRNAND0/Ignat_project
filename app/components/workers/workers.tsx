@@ -7,32 +7,28 @@ import { Link } from "@/i18n/navigation";
 
 const workerDefs = [
   {
-    id: "anastasia",
+    id: "leo-carter",
     image: "/img/workers/beautifull-caucasian-woman-with-curly-hair-smiles-isolated 1.jpg",
   },
   {
-    id: "alexey",
+    id: "alex-morgan",
     image: "/img/workers/man-with-curly-hair-smiles-isolated 1.jpg",
   },
   {
-    id: "maria",
+    id: "emma-collins",
     image: "/img/workers/beautifuan-woman-with-curly-hair-smiles-isolated 1.jpg",
   },
   {
-    id: "arina",
+    id: "daniel-reed",
     image: "/img/workers/dawda.jpg",
   },
   {
-    id: "vyacheslav",
+    id: "sophia-bennett",
     image: "/img/workers/beautifull-caucasiany-hair-smiles-isolated 1.jpg",
   },
   {
-    id: "ivan",
+    id: "ethan-brooks",
     image: "/img/workers/man-with-curly-hair-smiles-isolated 1.jpg",
-  },
-  {
-    id: "elizaveta",
-    image: "/img/workers/beautifuan-woman-with-curly-hair-smiles-isolated 1.jpg",
   },
 ];
 
@@ -78,7 +74,6 @@ function WorkerCard({
           src={worker.image}
           alt={worker.name}
           fill
-          
           sizes={imageSizes}
           className="object-cover object-top"
         />
@@ -127,16 +122,17 @@ function WorkerCard({
               {worker.role}
             </p>
           </div>
-            <Link
-        href="/team"
-        className={
-          compact
-            ? "grid h-6 w-6 shrink-0 place-items-center self-center rounded-full bg-[#acc2fd] text-xs text-zinc-800 transition-shadow hover:shadow-md min-[360px]:h-7 min-[360px]:w-7"
-            : "grid h-7 w-7 shrink-0 place-items-center self-center rounded-full bg-[#acc2fd] text-sm text-zinc-800 transition-shadow hover:shadow-md sm:h-8 sm:w-8 sm:text-base"
-        }
-        aria-label={t("openProfile")}>
-        ↗
-      </Link>
+          <Link
+            href={`/team/${worker.id}`}
+            className={
+              compact
+                ? "grid h-6 w-6 shrink-0 place-items-center self-center rounded-full bg-[#acc2fd] text-xs text-zinc-800 transition-shadow hover:shadow-md min-[360px]:h-7 min-[360px]:w-7"
+                : "grid h-7 w-7 shrink-0 place-items-center self-center rounded-full bg-[#acc2fd] text-sm text-zinc-800 transition-shadow hover:shadow-md sm:h-8 sm:w-8 sm:text-base"
+            }
+            aria-label={t("openProfile")}
+          >
+            ↗
+          </Link>
         </div>
       </div>
     </article>
