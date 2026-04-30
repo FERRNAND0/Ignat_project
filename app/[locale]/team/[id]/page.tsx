@@ -77,7 +77,7 @@ export default async function SpecialistProfilePage({ params }: Props) {
               <div className="relative w-full aspect-square rounded-[32px] overflow-hidden bg-white dark:bg-[#1a1a1c] shadow-sm border border-gray-200 dark:border-white/10">
                 {/* Убедись, что картинка leo-carter.jpg лежит в public/img/team/ */}
                 <Image
-                  src={`/img/team/${id}.jpg`} 
+                  src={`/img/workers/sotrudnik/${id}.jpg`} 
                   alt={t(`${id}.photoAlt`)}
                   fill
                   className="object-cover"
