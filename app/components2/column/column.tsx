@@ -81,7 +81,7 @@ export function Column() {
       setIsLoading(false);
     }
   };
-
+  
   useEffect(() => {
     loadBoard();
   }, []);
