@@ -117,14 +117,16 @@ export default function Services() {
                     key={`${section.id}-${itemId}`}
                     className="flex min-h-[112px] min-w-0 flex-col items-start gap-3 rounded-2xl bg-[var(--services-text-bg)] px-6 py-4 text-[var(--services-title)] shadow-none transition-all duration-300 ease-out will-change-transform hover:scale-[1.03] hover:bg-[#9ab5f6] hover:shadow-[0_0_12px_rgba(172,194,253,0.3)] dark:hover:bg-[#9ab5f6] dark:hover:shadow-[0_0_12px_rgba(95,119,184,0.35)] md:min-h-16 md:flex-row md:items-center md:gap-3 md:rounded-full cursor-pointer"
                   >
-                    <img
-                      src={serviceIconSrc(itemId)}
-                      alt=""
-                      width={20}
-                      height={20}
-                      className="h-4 w-4 flex-shrink-0 object-contain md:h-5 md:w-5"
-                      aria-hidden
-                    />
+<img
+  src={serviceIconSrc(itemId)}
+  alt=""
+  width={20}
+  height={20}
+  // invert-[.5] делает иконку средне-серой
+  // dark:invert-[.7] делает ее светло-серой в темной теме для контраста
+  className="h-4 w-4 flex-shrink-0 object-contain md:h-5 md:w-5 invert-[.5] dark:invert-[.7]"
+  aria-hidden
+/>
                     <span className="min-w-0 w-full text-xs leading-5 md:text-sm">
                       {t(`sections.${section.id}.items.${itemId}`)}
                     </span>
