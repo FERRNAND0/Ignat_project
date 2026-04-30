@@ -24,13 +24,6 @@ export default function Design() {
 
         <div className="w-full min-w-0 md:w-[46%] md:max-w-[800px]">
           <div className="mb-4 flex flex-wrap items-center gap-2 text-sm text-[var(--design-muted)]">
-            <span aria-hidden>⌂</span>
-            <span aria-hidden>›</span>
-            <span>{t("breadcrumbTeam")}</span>
-            <span aria-hidden>›</span>
-            <span className="font-semibold text-[var(--foreground)]">
-              {t("breadcrumbName")}
-            </span>
           </div>
 
           <h2 className="mb-3 text-3xl font-extrabold leading-[1.15] text-[var(--foreground)] sm:text-4xl lg:text-5xl">

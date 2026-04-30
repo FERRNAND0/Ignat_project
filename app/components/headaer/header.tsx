@@ -106,9 +106,32 @@ export default function Header({ matchTeamSurface = false }: HeaderProps) {
     <>
       <header className="my-4 flex items-center justify-between rounded-full bg-[var(--header-bg)] px-3 py-2.5 sm:my-6 sm:px-4 sm:py-3 lg:px-6 lg:py-4 transition-colors duration-300">
         <Link href="/main-page">
-          <h1 className="text-xl leading-tight font-semibold text-[var(--foreground)] sm:text-2xl lg:text-lg">
-            MARKETING LOGO
-          </h1>
+          <div className="flex items-center gap-3">
+  
+  {/* ТОЛЬКО ДЛЯ СВЕТЛОЙ ТЕМЫ (Скрывается в темной) */}
+<div className="relative h-10 w-10 overflow-hidden">
+      {/* Рендерим картинки только когда точно знаем текущую тему */}
+      {isThemeReady && (
+        <>
+          <Image 
+            src="/img/logo.svg" 
+            alt="IE Creative Group Light" 
+            fill 
+            className="object-contain dark:hidden"
+          />
+          <Image 
+            src="/img/logo-dark.svg" 
+            alt="IE Creative Group Dark" 
+            fill 
+            className="hidden object-contain dark:block"
+          />
+        </>
+      )}
+    </div>
+  <h3 className="text-xl font-bold tracking-tight text-[var(--foreground)] md:text-2xl lg:text-3xl">
+    IE CREATIVE GROUP
+  </h3>
+</div>
         </Link>
 
         {/* Бургер-меню */}

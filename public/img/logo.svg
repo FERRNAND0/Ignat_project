@@ -1,0 +1,13 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="256" cy="256" r="256" fill="#63a7cc"/>
+  
+  <text 
+    x="256" 
+    y="340" 
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" 
+    font-weight="bold" 
+    font-size="250" 
+    fill="#ffffff" 
+    text-anchor="middle" 
+    letter-spacing="-2">ie</text>
+</svg>

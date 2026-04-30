@@ -19,21 +19,31 @@ export default function BlogList() {
   const t = useTranslations("blog");
   const [posts, setPosts] = useState<Post[]>([]);
   const [loading, setLoading] = useState(true);
-
-  useEffect(() => {
-    const API_URL = "api/posts/";
+useEffect(() => {
+    // Добавили слэш в начале: "/api/posts"
+    const API_URL = "/api/posts"; 
+    
     fetch(API_URL)
-      .then((res) => res.json())
+      .then((res) => {
+        if (!res.ok) throw new Error("Ошибка сервера");
+        return res.json();
+      })
       .then((data) => {
-        setPosts(data);
+        // ПРОВЕРКА: Если пришел массив — ставим его, если нет — пустой список
+        if (Array.isArray(data)) {
+          setPosts(data);
+        } else {
+          console.error("Бэкенд вернул не массив:", data);
+          setPosts([]); 
+        }
         setLoading(false);
       })
       .catch((err) => {
         console.error("Ошибка при загрузке блога:", err);
+        setPosts([]);
         setLoading(false);
       });
   }, []);
-
   if (loading) return <div className="p-10 text-center">Загрузка статей...</div>;
 
   return (

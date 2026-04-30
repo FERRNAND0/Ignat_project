@@ -25,13 +25,8 @@ export default function Sales() {
         <div className="w-full min-w-0 md:w-1/2 md:max-w-[660px]">
           <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
             <div className="flex items-center gap-2 text-sm text-zinc-500">
-              <span aria-hidden>⌂</span>
-              <span aria-hidden>›</span>
-              <span>{t("breadcrumbProjects")}</span>
-              <span aria-hidden>›</span>
-              <span className="font-semibold text-zinc-700">
-                {t("breadcrumbCurrent")}
-              </span>
+
+
             </div>
 
             <span className="rounded-full bg-zinc-900 px-4 py-1 text-sm  text-[#f5d58d] font-extrabold font-['Manrope'] ">

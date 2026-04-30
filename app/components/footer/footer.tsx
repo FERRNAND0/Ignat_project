@@ -78,12 +78,39 @@ export default function Footer() {
         <div className="mx-auto max-w-[1400px] px-4 py-6 md:px-8 md:py-8 lg:px-10">
           <div className="grid grid-cols-1 gap-6 md:grid-cols-[2.2fr_1fr_1fr_1fr] md:gap-10">
             <div>
-              <h3 className="mb-3 text-xl font-semibold md:text-2xl lg:text-3xl">
-                {t("brandTitle")}
-              </h3>
-              <p className="max-w-md text-sm leading-6 text-zinc-400 md:text-lg md:leading-8">
-                {t("about")}
-              </p>
+             <div>
+  {/* Блок с логотипом и названием */}
+  <div className="mb-4 flex items-center gap-3">
+    <div className="relative h-10 w-10 overflow-hidden rounded-full bg-[#48afd3] flex items-center justify-center">
+      {/* 
+        Когда добавишь файл логотипа в public/img/, 
+        раскомментируй Image ниже. Сейчас здесь просто фон и текст 
+      */}
+      <span className="text-sm font-bold text-white">ie</span>
+      
+      <Image 
+        src="/img/logo-dark.svg" 
+        alt="IE Logo" 
+        fill 
+        className="object-cover"
+      /> 
+     
+    </div>
+    <h3 className="text-xl font-bold md:text-2xl lg:text-3xl tracking-tight text-white">
+      CREATIVE GROUP
+    </h3>
+  </div>
+
+  <p className="max-w-md text-sm leading-6 text-zinc-400 md:text-lg md:leading-8">
+    {t("about")}
+  </p>
+  
+  <div className="mt-5 flex flex-wrap gap-2 text-xs md:text-base">
+    <span className="rounded-md bg-zinc-800 px-2 py-1">{t("badges.google")}</span>
+    <span className="rounded-md bg-zinc-800 px-2 py-1">{t("badges.meta")}</span>
+    <span className="rounded-md bg-zinc-800 px-2 py-1">{t("badges.ssl")}</span>
+  </div>
+</div>
               <div className="mt-5 flex flex-wrap gap-2 text-xs md:text-base">
                 <span>{t("badges.google")}</span>
                 <span>{t("badges.meta")}</span>

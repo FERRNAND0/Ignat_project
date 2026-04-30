@@ -36,7 +36,7 @@ export default function Features() {
 
             <div className="mb-4">
               <Image
-                src={isDarkTheme ? "/svg/graph-dark.svg" : "/svg/graph.svg"}
+                src={isDarkTheme ? "/svg/dark/graph-dark.svg" : "/svg/graph.svg"}
                 alt={t("iconAlt")}
                 width={32}
                 height={32}
