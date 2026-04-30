@@ -14,7 +14,7 @@ export default function Design() {
       <div className="flex flex-col-reverse gap-4 md:flex-row md:items-center md:gap-8">
         <div className="flex w-full justify-start md:w-[40%] md:flex-shrink-0">
           <Image
-            src="/img/beautifull-caucasian-woman-with-curly-hair-smiles-isolated 1 (2) 1.png"
+            src="/img/beautifull-caucasian-woman-with-curly-hair-smiles-isolated1(2)1.png"
             alt={t("imageAlt")}
             width={600}
             height={600}

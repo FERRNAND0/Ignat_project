@@ -55,7 +55,7 @@ export default function Footer() {
                 }`}
               >
                 <Image
-                  src="/img/beautifull-caucasian-woman-with-curly-hair-smiles-isolated 1.png"
+                  src="/img/beautifull-caucasian-woman-with-curly-hair-smiles-isolated1.png"
                   alt={t("memberAlt")}
                   fill
                   className="object-cover"

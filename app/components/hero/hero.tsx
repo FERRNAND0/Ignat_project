@@ -31,8 +31,8 @@ export default function Hero() {
 
   /** Постеры для fallback-картинки и атрибута poster у видео. */
   const posterSrc = isDarkTheme
-    ? `/img/${encodeURIComponent("Mask group (1).png")}`
-    : `/img/${encodeURIComponent("Mask group.png")}`;
+    ? `/img/${encodeURIComponent("Mask_group_(1).png")}`
+    : `/img/${encodeURIComponent("Mask_group.png")}`;
 
   const heroVideoSrc = isDarkTheme ? HERO_MEDIA_DARK_SRC : HERO_VIDEO_LIGHT_SRC;
 

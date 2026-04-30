@@ -8,15 +8,15 @@ import { Link } from "@/i18n/navigation";
 const workerDefs = [
   {
     id: "leo-carter",
-    image: "/img/workers/beautifull-caucasian-woman-with-curly-hair-smiles-isolated 1.jpg",
+    image: "/img/workers/beautifull-caucasian-woman-with-curly-hair-smiles-isolated1.jpg",
   },
   {
     id: "alex-morgan",
-    image: "/img/workers/man-with-curly-hair-smiles-isolated 1.jpg",
+    image: "/img/workers/man-with-curly-hair-smiles-isolated1.jpg",
   },
   {
     id: "emma-collins",
-    image: "/img/workers/beautifuan-woman-with-curly-hair-smiles-isolated 1.jpg",
+    image: "/img/workers/beautifuan-woman-with-curly-hair-smiles-isolated1.jpg",
   },
   {
     id: "daniel-reed",
@@ -24,11 +24,11 @@ const workerDefs = [
   },
   {
     id: "sophia-bennett",
-    image: "/img/workers/beautifull-caucasiany-hair-smiles-isolated 1.jpg",
+    image: "/img/workers/beautifull-caucasiany-hair-smiles-isolated1.jpg",
   },
   {
     id: "ethan-brooks",
-    image: "/img/workers/man-with-curly-hair-smiles-isolated 1.jpg",
+    image: "/img/workers/man-with-curly-hair-smiles-isolated1.jpg",
   },
 ];
 

@@ -70,10 +70,7 @@ export default async function ServiceDetailsPage({ params }: Props) {
       <main className="mx-auto flex w-full min-h-screen max-w-[1280px] flex-col gap-6 px-4 md:px-6">
         <Header />
         
-        <div className="max-w-[1280px] mx-auto w-full mb-2">
-          <Breadcrumbs />
-        </div>
-        
+
         <div className="flex-1 pb-20 animate-in fade-in duration-500">
           {/* ЗАГОЛОВОК И ИНТРО */}
           <div className="mb-12 border-b border-gray-200 dark:border-white/10 pb-8">

@@ -16,7 +16,7 @@ export default function AdminPage() {
   const [user] = useState<User>({
     id: "1",
     name: "Aibek",
-    avatar: "/img/Mask group.png",
+    avatar: "/img/Mask_group.png",
     role: "Student",
     rank: 1,
     solved: 100,

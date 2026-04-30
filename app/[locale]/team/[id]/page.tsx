@@ -68,11 +68,7 @@ export default async function SpecialistProfilePage({ params }: Props) {
 
       <main className="mx-auto flex w-full min-h-screen max-w-[1280px] flex-col gap-6 px-4 md:px-6">
         <Header />
-        
-        <div className="max-w-[1280px] mx-auto w-full mb-2">
-          <Breadcrumbs />
-        </div>
-        
+
         <div className="flex-1 pb-20 animate-in fade-in duration-500">
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-10">
             
@@ -130,12 +126,12 @@ export default async function SpecialistProfilePage({ params }: Props) {
                 </h3>
                 <div className="flex flex-wrap gap-2">
                   {t(`${id}.skills`).split(', ').map((skill, index) => (
-                    <span
-                      key={index}
-                      className="rounded-full bg-gray-100 dark:bg-white/5 border border-gray-200 dark:border-white/10 px-4 py-2 text-sm text-[var(--foreground)]"
-                    >
-                      {skill}
-                    </span>
+                <span
+  key={index}
+  className="rounded-full bg-zinc-200 dark:bg-zinc-800 border border-zinc-300 dark:border-zinc-700 px-4 py-2 text-sm font-medium text-zinc-900 dark:text-zinc-100"
+>
+  {skill}
+</span>
                   ))}
                 </div>
               </div>

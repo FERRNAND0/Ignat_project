@@ -8,21 +8,20 @@ import { useTranslations } from "next-intl";
 // Описываем тип данных для статьи (как в нашей схеме Python)
 interface Post {
   id: number;
-  title: str;
-  excerpt: str;
-  content: str;
-  category: str;
-  image_url: str;
-  created_at: str;
+  title: string;
+  excerpt: string;
+  content: string;
+  category: string;
+  image_url: string;
+  created_at: string;
 }
-
 export default function BlogList() {
   const t = useTranslations("blog");
   const [posts, setPosts] = useState<Post[]>([]);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    const API_URL = "http://127.0.0.1:8000/posts/";
+    const API_URL = "api/posts/";
     fetch(API_URL)
       .then((res) => res.json())
       .then((data) => {

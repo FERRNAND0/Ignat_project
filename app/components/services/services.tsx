@@ -32,7 +32,7 @@ const SERVICE_ITEM_ICONS: Record<string, string> = {
   "pr-communications": "/rare/clipboard.svg",
   "automation-martech": "/middle/designtools.svg",
   "ai-agents-automation": "/rare/notification-status.svg",
-  "testing-qa-devops": "/rare/ruler%26pen.svg",
+  "testing-qa-devops": "/rare/rulerpen.svg",
 };
 
 function serviceIconSrc(itemId: string): string {
